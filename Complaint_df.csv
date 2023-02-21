@@ -1,0 +1,4082 @@
+Year,Month,Community,Total Complaints,Total Number of Callers
+2018,2,San Leandro,1.0,1.0
+2018,4,San Carlos,64.0,2.0
+2018,6,El Granada,475.0,1.0
+2018,4,Santa Clara,15.0,1.0
+2018,8,Los Altos,25681.0,163.0
+2018,6,Palo Alto,48093.0,239.0
+2018,7,Aptos,812.0,11.0
+2018,3,Watsonville,175.0,1.0
+2018,7,Brookdale,4.0,1.0
+2018,3,Los Altos Hills,9153.0,35.0
+2018,5,Ben Lomond,630.0,10.0
+2018,7,El Sobrante,2.0,1.0
+2018,2,Alameda,10.0,1.0
+2018,6,Burlingame,148.0,15.0
+2018,7,Orinda,40.0,3.0
+2018,2,Menlo Park,1947.0,25.0
+2018,2,Portola Valley,7005.0,40.0
+2018,6,Ben Lomond,162.0,9.0
+2018,7,Boulder Creek,532.0,10.0
+2018,3,Albany,1.0,1.0
+2018,2,Santa Clara,1.0,1.0
+2018,7,Ben Lomond,288.0,8.0
+2018,1,Foster City,476.0,10.0
+2018,5,Woodside,2819.0,12.0
+2018,2,Morgan Hill,763.0,2.0
+2018,4,Oakland,8498.0,48.0
+2018,3,Los Gatos,22822.0,153.0
+2018,1,Santa Cruz,22743.0,129.0
+2018,3,Saratoga,846.0,9.0
+2018,1,Daly City,1485.0,9.0
+2018,5,Cupertino,299.0,2.0
+2018,8,Burlingame,577.0,34.0
+2018,6,San Jose,39.0,2.0
+2018,8,Mountain View,4323.0,59.0
+2018,3,Half Moon Bay,399.0,10.0
+2018,8,Daly City,1435.0,7.0
+2018,8,Pinole,689.0,2.0
+2018,4,Saratoga,944.0,9.0
+2018,8,Bonny Doon,157.0,3.0
+2018,3,Daly City,2484.0,10.0
+2018,7,Belmont,669.0,6.0
+2018,7,San Bruno,784.0,4.0
+2018,1,Saratoga,1045.0,10.0
+2018,8,Portola Valley,5086.0,38.0
+2018,2,Redwood City,1861.0,14.0
+2018,2,San Mateo,676.0,19.0
+2018,1,Menlo Park,2061.0,27.0
+2018,4,Burlingame,211.0,9.0
+2018,2,Brisbane,2939.0,32.0
+2018,7,Palo Alto,51852.0,226.0
+2018,7,San Carlos,32.0,3.0
+2018,5,Soquel,9992.0,92.0
+2018,2,Burlingame,576.0,7.0
+2018,1,Mountain View,7031.0,57.0
+2018,3,Castro Valley,10.0,1.0
+2018,6,Carmel,143.0,5.0
+2018,3,Millbrae,52.0,6.0
+2018,6,Brisbane,2255.0,28.0
+2018,5,Daly City,2275.0,9.0
+2018,4,Cupertino,165.0,3.0
+2018,7,Burlingame,341.0,37.0
+2018,7,Richmond,82.0,1.0
+2018,5,San Leandro,6.0,2.0
+2018,3,Sunnyvale,1077.0,13.0
+2018,7,San Mateo,1327.0,31.0
+2018,5,Brookdale,6.0,1.0
+2018,4,Palo Alto,57205.0,239.0
+2018,1,Soquel,8291.0,87.0
+2018,6,San Mateo,1220.0,21.0
+2018,7,Los Gatos,29451.0,151.0
+2018,2,Oakland,7228.0,28.0
+2018,7,Capitola,4725.0,23.0
+2018,8,Menlo Park,1951.0,23.0
+2018,7,Soquel,11737.0,89.0
+2018,8,Saratoga,793.0,10.0
+2018,8,San Bruno,581.0,10.0
+2018,3,Moraga,390.0,3.0
+2018,3,Morgan Hill,345.0,2.0
+2018,6,Millbrae,4.0,3.0
+2018,1,Sunnyvale,885.0,13.0
+2018,1,East Palo Alto,8.0,2.0
+2018,6,Foster City,449.0,8.0
+2018,8,Santa Cruz,22449.0,138.0
+2018,7,Portola Valley,7184.0,40.0
+2018,2,Sunnyvale,574.0,11.0
+2018,3,El Granada,201.0,4.0
+2018,6,Saratoga,702.0,9.0
+2018,7,El Granada,741.0,2.0
+2018,8,Boulder Creek,273.0,9.0
+2018,8,Oakland,7478.0,29.0
+2018,4,Brookdale,3.0,1.0
+2018,8,Berkeley,362.0,5.0
+2018,7,Brisbane,2025.0,23.0
+2018,1,Watsonville,212.0,1.0
+2018,2,Capitola,382.0,14.0
+2018,7,Lafayette,336.0,1.0
+2018,2,Foster City,340.0,5.0
+2018,2,Boulder Creek,1395.0,30.0
+2018,5,Mountain View,6629.0,60.0
+2018,4,Bonny Doon,104.0,4.0
+2018,4,Redwood City,1465.0,18.0
+2018,6,Fremont,24.0,1.0
+2018,2,South San Francisco,308.0,8.0
+2018,3,Bonny Doon,189.0,4.0
+2018,5,Richmond,8.0,1.0
+2018,6,Portola Valley,6672.0,41.0
+2018,5,Moraga,208.0,2.0
+2018,8,El Granada,543.0,2.0
+2018,3,Mountain View,7170.0,67.0
+2018,6,Moraga,189.0,2.0
+2018,5,Aptos,732.0,14.0
+2018,4,Watsonville,222.0,1.0
+2018,5,Capitola,4420.0,23.0
+2018,6,Hillsborough,97.0,9.0
+2018,6,Hayward,2.0,2.0
+2018,1,Los Gatos,21395.0,154.0
+2018,6,San Francisco,3736.0,37.0
+2018,8,Millbrae,26.0,10.0
+2018,3,Berkeley,66.0,5.0
+2018,7,Morgan Hill,55.0,2.0
+2018,3,San Francisco,4986.0,44.0
+2018,5,El Cerrito,1.0,1.0
+2018,2,Cupertino,163.0,3.0
+2018,5,Santa Cruz,25117.0,154.0
+2018,2,Woodside,1120.0,12.0
+2018,5,Santa Clara,22.0,1.0
+2018,5,Sunnyvale,607.0,15.0
+2018,7,Sunnyvale,191.0,7.0
+2018,4,Boulder Creek,805.0,17.0
+2018,3,Oakland,9391.0,42.0
+2018,1,San Jose,86.0,1.0
+2018,3,Pacifica,6480.0,61.0
+2018,5,Half Moon Bay,522.0,6.0
+2018,8,Brookdale,4.0,1.0
+2018,2,Orinda,419.0,1.0
+2018,3,Foster City,278.0,8.0
+2018,7,Foster City,142.0,12.0
+2018,7,Carmel,588.0,3.0
+2018,5,Los Gatos,26987.0,148.0
+2018,5,Belmont,770.0,6.0
+2018,7,Alameda,24.0,5.0
+2018,6,Boulder Creek,389.0,8.0
+2018,7,Woodside,1538.0,15.0
+2018,7,Menlo Park,1952.0,19.0
+2018,4,Carmel,366.0,4.0
+2018,8,Foster City,112.0,14.0
+2018,6,Brookdale,1.0,1.0
+2018,8,Ben Lomond,168.0,10.0
+2018,4,Portola Valley,7702.0,39.0
+2018,5,Watsonville,260.0,1.0
+2018,8,Hillsborough,202.0,18.0
+2018,6,Bonny Doon,167.0,4.0
+2018,2,Scotts Valley,5971.0,92.0
+2018,3,Santa Cruz,24142.0,159.0
+2018,2,San Francisco,3302.0,35.0
+2018,3,Soquel,9420.0,100.0
+2018,7,Mountain View,4281.0,56.0
+2018,7,Felton,1525.0,17.0
+2018,6,Redwood City,1595.0,15.0
+2018,4,South San Francisco,97.0,8.0
+2018,8,San Francisco,3283.0,35.0
+2018,6,Felton,1139.0,14.0
+2018,3,Atherton,853.0,8.0
+2018,7,Hillsborough,138.0,11.0
+2018,1,San Bruno,295.0,11.0
+2018,8,Los Gatos,22524.0,154.0
+2018,1,Bonny Doon,75.0,2.0
+2018,2,Castro Valley,24.0,1.0
+2018,7,Piedmont,2.0,1.0
+2018,7,East Palo Alto,5.0,1.0
+2018,2,Fremont,34.0,1.0
+2018,1,Redwood City,2188.0,12.0
+2018,1,Berkeley,78.0,5.0
+2018,4,San Mateo,1160.0,9.0
+2018,4,Moraga,594.0,2.0
+2018,4,San Leandro,188.0,1.0
+2018,2,Mount Hermon,1.0,1.0
+2018,1,Brisbane,3595.0,38.0
+2018,2,Atherton,481.0,5.0
+2018,2,Moraga,378.0,1.0
+2018,4,San Francisco,5474.0,41.0
+2018,6,Lafayette,494.0,1.0
+2018,1,Half Moon Bay,573.0,4.0
+2018,7,Hayward,5.0,1.0
+2018,1,Burlingame,435.0,3.0
+2018,2,Soquel,1454.0,67.0
+2018,8,Woodside,1367.0,13.0
+2018,7,Millbrae,10.0,3.0
+2018,7,Los Altos Hills,9651.0,36.0
+2018,2,Brookdale,18.0,2.0
+2018,1,Belmont,911.0,7.0
+2018,4,Morgan Hill,643.0,2.0
+2018,6,Atherton,939.0,5.0
+2018,7,Oakland,8707.0,38.0
+2018,2,East Palo Alto,49.0,2.0
+2018,8,Aptos,526.0,13.0
+2018,5,San Jose,14.0,1.0
+2018,2,Los Altos,20392.0,155.0
+2018,3,South San Francisco,436.0,13.0
+2018,5,Millbrae,2.0,1.0
+2018,5,Scotts Valley,14511.0,92.0
+2018,4,Ben Lomond,445.0,13.0
+2018,4,Sunnyvale,205.0,11.0
+2018,2,Ben Lomond,589.0,20.0
+2018,5,Fremont,30.0,1.0
+2018,5,Palo Alto,56735.0,253.0
+2018,8,Belmont,410.0,8.0
+2018,1,Felton,698.0,11.0
+2018,4,Felton,892.0,21.0
+2018,7,Berkeley,306.0,4.0
+2018,6,Morgan Hill,138.0,2.0
+2018,2,Belmont,882.0,8.0
+2018,5,San Mateo,1393.0,11.0
+2018,3,Santa Clara,37.0,1.0
+2018,8,Watsonville,273.0,1.0
+2018,3,Brisbane,3669.0,30.0
+2018,6,El Cerrito,2.0,2.0
+2018,3,Portola Valley,7497.0,40.0
+2018,6,Cupertino,599.0,2.0
+2018,1,South San Francisco,943.0,13.0
+2018,4,Fremont,28.0,1.0
+2018,8,Richmond,21.0,1.0
+2018,8,Union City,53.0,1.0
+2018,1,Los Altos Hills,8471.0,27.0
+2018,2,Hayward,11.0,2.0
+2018,3,Lafayette,442.0,1.0
+2018,4,Belmont,749.0,5.0
+2018,8,Moraga,117.0,3.0
+2018,4,Woodside,1637.0,12.0
+2018,3,San Bruno,350.0,10.0
+2018,1,Woodside,1305.0,14.0
+2018,1,Carmel,213.0,2.0
+2018,5,South San Francisco,85.0,17.0
+2018,6,East Palo Alto,24.0,2.0
+2018,2,Sacramento,2.0,2.0
+2018,7,Moraga,177.0,3.0
+2018,6,Berkeley,170.0,4.0
+2018,7,Cupertino,496.0,2.0
+2018,8,Capitola,2663.0,25.0
+2018,3,Brookdale,16.0,2.0
+2018,5,Lafayette,175.0,1.0
+2018,6,Pacifica,5024.0,45.0
+2018,1,San Mateo,534.0,9.0
+2018,7,Bonny Doon,201.0,4.0
+2018,1,Fremont,39.0,2.0
+2018,2,Carmel,91.0,2.0
+2018,4,Los Gatos,28141.0,154.0
+2018,1,Orinda,294.0,1.0
+2018,8,Cupertino,363.0,1.0
+2018,7,Daly City,692.0,6.0
+2018,5,Portola Valley,10406.0,43.0
+2018,6,Aptos,325.0,12.0
+2018,2,Mountain View,7470.0,60.0
+2018,6,Daly City,1185.0,10.0
+2018,2,Berkeley,9.0,2.0
+2018,7,San Francisco,3342.0,31.0
+2018,1,Palo Alto,57543.0,232.0
+2018,5,Atherton,515.0,7.0
+2018,1,Hayward,1.0,1.0
+2018,3,Menlo Park,2595.0,29.0
+2018,5,Los Altos,27988.0,190.0
+2018,8,Orinda,30.0,1.0
+2018,3,Mount Hermon,2.0,1.0
+2018,5,Carmel,286.0,4.0
+2018,8,San Jose,11.0,2.0
+2018,3,Los Altos,28338.0,186.0
+2018,3,Alameda,33.0,3.0
+2018,8,Atherton,598.0,6.0
+2018,3,La Selva Beach,34.0,1.0
+2018,4,Soquel,9857.0,97.0
+2018,7,Pacifica,4943.0,46.0
+2018,6,Los Gatos,19068.0,145.0
+2018,4,Hayward,1.0,1.0
+2018,8,Fremont,12.0,2.0
+2018,4,Foster City,603.0,11.0
+2018,1,Millbrae,3.0,3.0
+2018,1,Lafayette,29.0,1.0
+2018,6,Soquel,6139.0,86.0
+2018,4,San Bruno,492.0,6.0
+2018,7,Redwood City,1725.0,13.0
+2018,8,San Mateo,1026.0,23.0
+2018,8,San Carlos,128.0,2.0
+2018,1,Portola Valley,6905.0,37.0
+2018,6,Alameda,31.0,1.0
+2018,8,Brisbane,2620.0,23.0
+2018,1,Moraga,339.0,1.0
+2018,4,Half Moon Bay,1000.0,8.0
+2018,1,Ben Lomond,165.0,4.0
+2018,4,El Granada,222.0,3.0
+2018,3,San Jose,92.0,1.0
+2018,7,Atherton,988.0,5.0
+2018,4,Los Altos Hills,8961.0,32.0
+2018,2,Watsonville,179.0,1.0
+2018,6,Castro Valley,7.0,1.0
+2018,3,Felton,1558.0,40.0
+2018,1,Boulder Creek,168.0,5.0
+2018,5,Alameda,40.0,1.0
+2018,2,San Bruno,459.0,6.0
+2018,3,Carmel,112.0,2.0
+2018,8,Alameda,10.0,1.0
+2018,7,Los Altos,23589.0,176.0
+2018,5,Pacifica,8581.0,60.0
+2018,5,Foster City,587.0,10.0
+2018,8,Redwood City,1619.0,16.0
+2018,1,Los Altos,26840.0,172.0
+2018,6,Capitola,2666.0,20.0
+2018,2,San Carlos,7.0,2.0
+2018,4,Los Altos,28287.0,180.0
+2018,2,Bonny Doon,199.0,2.0
+2018,1,El Granada,2.0,1.0
+2018,8,Pacifica,4203.0,32.0
+2018,1,Scotts Valley,12824.0,78.0
+2018,3,Scotts Valley,13259.0,95.0
+2018,5,Redwood City,2415.0,14.0
+2018,8,Soquel,8576.0,85.0
+2018,5,Hillsborough,6.0,5.0
+2018,8,Los Altos Hills,9801.0,31.0
+2018,2,Daly City,1012.0,9.0
+2018,5,Berkeley,952.0,6.0
+2018,2,Aptos,240.0,17.0
+2018,8,East Palo Alto,12.0,3.0
+2018,3,Boulder Creek,1582.0,28.0
+2018,4,Capitola,4060.0,23.0
+2018,5,Oakland,8258.0,37.0
+2018,3,Woodside,1234.0,13.0
+2018,1,Oakland,9621.0,30.0
+2018,8,Scotts Valley,13778.0,79.0
+2018,5,San Bruno,257.0,8.0
+2018,4,Mountain View,5285.0,60.0
+2018,6,Mountain View,5634.0,70.0
+2018,7,Fremont,16.0,1.0
+2018,5,San Francisco,5855.0,39.0
+2018,1,San Francisco,5408.0,39.0
+2018,3,Redwood City,1832.0,16.0
+2018,2,Half Moon Bay,535.0,6.0
+2018,3,Fremont,25.0,2.0
+2018,1,Capitola,2762.0,22.0
+2018,5,El Granada,730.0,2.0
+2018,6,Los Altos,24241.0,173.0
+2018,3,Burlingame,620.0,11.0
+2018,2,La Selva Beach,6.0,1.0
+2018,4,Berkeley,49.0,6.0
+2018,3,Aptos,1044.0,16.0
+2018,7,South San Francisco,28.0,9.0
+2018,3,San Carlos,15.0,3.0
+2018,2,Palo Alto,46250.0,227.0
+2018,3,Ben Lomond,687.0,22.0
+2018,1,San Carlos,3.0,2.0
+2018,4,Hillsborough,2.0,1.0
+2018,7,Santa Cruz,27440.0,140.0
+2018,2,Saratoga,338.0,8.0
+2018,8,Felton,1059.0,15.0
+2018,8,Sunnyvale,277.0,9.0
+2018,4,Richmond,1.0,1.0
+2018,1,Pacifica,7047.0,53.0
+2018,8,Half Moon Bay,133.0,4.0
+2018,6,El Sobrante,2.0,1.0
+2018,5,Saratoga,935.0,9.0
+2018,6,San Carlos,3.0,2.0
+2018,4,Atherton,707.0,7.0
+2018,1,Aptos,966.0,13.0
+2018,6,Belmont,630.0,4.0
+2018,7,Pinole,1.0,1.0
+2018,4,Brisbane,3897.0,30.0
+2018,6,Orinda,103.0,1.0
+2018,6,South San Francisco,62.0,12.0
+2018,6,Sunnyvale,573.0,13.0
+2018,4,East Palo Alto,68.0,2.0
+2018,4,Alameda,13.0,1.0
+2018,3,Belmont,879.0,7.0
+2018,6,Santa Cruz,15715.0,131.0
+2018,6,Half Moon Bay,259.0,9.0
+2018,4,Millbrae,3.0,3.0
+2018,4,San Jose,24.0,1.0
+2018,7,Half Moon Bay,382.0,9.0
+2018,2,Los Altos Hills,10944.0,36.0
+2018,2,Albany,1.0,1.0
+2018,6,Oakland,7178.0,29.0
+2018,7,Watsonville,261.0,1.0
+2018,4,Aptos,1005.0,15.0
+2018,3,Piedmont,5.0,1.0
+2018,2,Santa Cruz,8725.0,163.0
+2018,6,San Bruno,423.0,6.0
+2018,3,Orinda,643.0,1.0
+2018,3,San Mateo,866.0,14.0
+2018,5,Menlo Park,1771.0,28.0
+2018,8,Palo Alto,53751.0,226.0
+2018,5,San Carlos,22.0,2.0
+2018,6,Woodside,1356.0,12.0
+2018,8,Carmel,225.0,3.0
+2018,2,El Granada,106.0,1.0
+2018,7,Saratoga,770.0,9.0
+2018,5,El Sobrante,8.0,1.0
+2018,5,Orinda,228.0,1.0
+2018,6,Los Altos Hills,9129.0,32.0
+2018,1,Alameda,3.0,2.0
+2018,4,Scotts Valley,15159.0,92.0
+2018,1,Morgan Hill,720.0,2.0
+2018,8,La Selva Beach,34.0,1.0
+2018,1,Cupertino,939.0,3.0
+2018,5,Los Altos Hills,9146.0,34.0
+2018,4,Santa Cruz,25475.0,159.0
+2018,3,Cupertino,1081.0,3.0
+2018,4,Lafayette,144.0,2.0
+2018,6,Watsonville,194.0,2.0
+2018,2,San Jose,18.0,2.0
+2018,1,Atherton,511.0,8.0
+2018,2,Los Gatos,11018.0,143.0
+2018,4,Pacifica,7194.0,61.0
+2018,5,Brisbane,2893.0,33.0
+2018,6,Menlo Park,1787.0,20.0
+2018,3,Capitola,3460.0,26.0
+2018,6,Richmond,52.0,1.0
+2018,4,Daly City,1255.0,8.0
+2018,5,Felton,1252.0,26.0
+2018,8,Lafayette,2.0,1.0
+2018,5,Boulder Creek,860.0,17.0
+2018,5,Burlingame,132.0,6.0
+2018,5,Morgan Hill,292.0,2.0
+2018,8,Morgan Hill,72.0,2.0
+2018,2,Pacifica,6753.0,53.0
+2018,5,Bonny Doon,261.0,4.0
+2018,7,San Jose,25.0,4.0
+2018,4,Menlo Park,2069.0,24.0
+2018,5,East Palo Alto,35.0,3.0
+2018,2,Felton,4300.0,64.0
+2018,3,East Palo Alto,27.0,2.0
+2018,4,Orinda,192.0,1.0
+2018,8,South San Francisco,105.0,16.0
+2018,2,Millbrae,5.0,5.0
+2018,2,Lafayette,202.0,2.0
+2018,6,Scotts Valley,9469.0,82.0
+2018,3,Palo Alto,57528.0,244.0
+2018,1,Brookdale,4.0,1.0
+2018,7,Scotts Valley,16900.0,82.0
+2017,9,Scotts Valley,16588.0,98.0
+2017,12,Daly City,6.0,575.0
+2017,12,Fremont,1.0,29.0
+2017,12,Union City,1.0,92.0
+2017,12,Brisbane,28.0,2894.0
+2017,12,San Mateo,13.0,333.0
+2017,12,Bonny Doon,2.0,24.0
+2017,12,Los Altos,169.0,16843.0
+2017,12,Morgan Hill,2.0,731.0
+2017,12,Boulder Creek,3.0,63.0
+2017,12,Felton,10.0,253.0
+2017,12,Cupertino,1.0,184.0
+2017,12,Foster City,7.0,260.0
+2017,12,Menlo Park,22.0,1728.0
+2017,12,Oakland,27.0,6015.0
+2017,12,Half Moon Bay,3.0,433.0
+2017,12,Hayward,1.0,2.0
+2017,12,Scotts Valley,77.0,9090.0
+2017,12,Alameda,1.0,2.0
+2017,12,Millbrae,4.0,11.0
+2017,12,Pacifica,42.0,3965.0
+2017,12,South San Francisco,9.0,313.0
+2017,12,Ben Lomond,2.0,37.0
+2017,12,Mountain View,47.0,11065.0
+2017,12,Woodside,11.0,601.0
+2017,12,Watsonville,1.0,155.0
+2017,12,Lafayette,1.0,110.0
+2017,12,Redwood City,12.0,1593.0
+2017,12,Atherton,5.0,419.0
+2017,12,Carmel,2.0,73.0
+2017,12,San Francisco,33.0,3044.0
+2017,12,Orinda,1.0,289.0
+2017,12,East Palo Alto,2.0,14.0
+2017,12,Burlingame,7.0,762.0
+2017,12,San Jose,1.0,5.0
+2017,12,Hillsborough,1.0,1.0
+2017,12,Belmont,5.0,653.0
+2017,12,Sunnyvale,12.0,101.0
+2017,12,Palo Alto,213.0,40859.0
+2017,12,Soquel,84.0,5132.0
+2017,12,Aptos,12.0,493.0
+2017,12,Santa Cruz,125.0,14879.0
+2017,12,Los Altos Hills,25.0,7159.0
+2017,12,Portola Valley,33.0,5507.0
+2017,12,Los Gatos,147.0,15703.0
+2017,12,Capitola,16.0,1684.0
+2017,12,Moraga,1.0,120.0
+2017,12,Saratoga,9.0,853.0
+2017,12,San Bruno,4.0,83.0
+2017,12,Berkeley,1.0,6.0
+2017,6,Brisbane,4045.0,41.0
+2017,4,Berkeley,543.0,6.0
+2017,8,Brisbane,2641.0,43.0
+2017,5,San Bruno,69.0,4.0
+2017,1,Palo Alto,50447.0,298.0
+2017,9,San Leandro,7.0,2.0
+2017,1,Brentwood,40.0,1.0
+2017,3,Belmont,1682.0,7.0
+2017,9,Menlo Park,2170.0,27.0
+2017,1,Scotts Valley,8312.0,83.0
+2017,8,Mill Valley,1.0,1.0
+2017,11,Morgan Hill,842.0,2.0
+2017,4,Pacifica,7589.0,58.0
+2017,5,Capitola,2860.0,21.0
+2017,7,Los Altos Hills,7857.0,40.0
+2017,9,San Carlos,77.0,4.0
+2017,2,Felton,257.0,9.0
+2017,1,Hillsborough,125.0,20.0
+2017,3,Scotts Valley,15012.0,91.0
+2017,10,Lafayette,234.0,1.0
+2017,1,East Palo Alto,12.0,3.0
+2017,8,East Palo Alto,10.0,2.0
+2017,1,Lafayette,1.0,1.0
+2017,5,Monte Sereno,142.0,1.0
+2017,11,Santa Clara,8.0,1.0
+2017,7,San Jose,13.0,1.0
+2017,9,Bonny Doon,165.0,5.0
+2017,9,San Geronimo,1.0,1.0
+2017,10,Ben Lomond,62.0,2.0
+2017,10,Millbrae,86.0,6.0
+2017,11,Daly City,1758.0,10.0
+2017,7,Sunnyvale,519.0,20.0
+2017,10,San Carlos,211.0,3.0
+2017,1,Belvedere-Tiburon,1.0,1.0
+2017,11,Saratoga,827.0,12.0
+2017,3,Cupertino,1540.0,5.0
+2017,4,Half Moon Bay,555.0,10.0
+2017,10,San Bruno,305.0,5.0
+2017,9,Martinez,1.0,1.0
+2017,2,El Cerrito,1.0,1.0
+2017,7,Menlo Park,2046.0,27.0
+2017,11,Scotts Valley,13083.0,86.0
+2017,6,Belmont,1130.0,5.0
+2017,11,San Francisco,5451.0,48.0
+2017,5,Los Gatos,33275.0,163.0
+2017,9,Saratoga,1642.0,12.0
+2017,4,Soquel,9172.0,91.0
+2017,5,Saratoga,883.0,11.0
+2017,11,Aptos,1342.0,17.0
+2017,4,San Francisco,2494.0,50.0
+2017,4,Hillsborough,4.0,2.0
+2017,6,San Francisco,4108.0,48.0
+2017,11,San Mateo,377.0,14.0
+2017,7,Saratoga,1270.0,13.0
+2017,3,Menlo Park,4831.0,41.0
+2017,10,Belmont,544.0,3.0
+2017,1,San Mateo,3199.0,37.0
+2017,7,Santa Cruz,25395.0,139.0
+2017,10,Sunnyvale,382.0,17.0
+2017,1,Ben Lomond,77.0,2.0
+2017,7,Watsonville,231.0,1.0
+2017,10,Scotts Valley,9192.0,89.0
+2017,7,Brisbane,3081.0,43.0
+2017,6,Moraga,294.0,2.0
+2017,8,Portola Valley,10640.0,59.0
+2017,1,Moraga,5.0,2.0
+2017,4,Brentwood,1.0,1.0
+2017,3,Moraga,236.0,3.0
+2017,8,Brookdale,4.0,1.0
+2017,2,East Palo Alto,18.0,4.0
+2017,3,Los Gatos,32216.0,154.0
+2017,10,San Jose,10.0,3.0
+2017,1,Pacifica,9545.0,63.0
+2017,11,Felton,344.0,10.0
+2017,6,San Jose,26.0,1.0
+2017,7,Fremont,21.0,1.0
+2017,2,Boulder Creek,61.0,4.0
+2017,8,Daly City,1993.0,7.0
+2017,8,Santa Cruz,25935.0,148.0
+2017,3,Oakland,13848.0,62.0
+2017,7,East Palo Alto,180.0,3.0
+2017,2,Daly City,2772.0,15.0
+2017,11,Belmont,1150.0,5.0
+2017,2,San Leandro,129.0,1.0
+2017,2,Capitola,2017.0,20.0
+2017,11,Los Gatos,26243.0,168.0
+2017,3,Watsonville,205.0,2.0
+2017,8,Mountain View,6500.0,66.0
+2017,9,Aptos,1621.0,17.0
+2017,1,Saratoga,1228.0,18.0
+2017,11,Capitola,2659.0,19.0
+2017,6,Ben Lomond,131.0,4.0
+2017,7,Boulder Creek,198.0,4.0
+2017,1,San Carlos,52.0,6.0
+2017,4,Lafayette,160.0,2.0
+2017,8,Los Gatos,36597.0,181.0
+2017,9,San Mateo,943.0,17.0
+2017,8,Burlingame,1247.0,24.0
+2017,5,Watsonville,191.0,1.0
+2017,7,Belmont,596.0,3.0
+2017,10,Boulder Creek,78.0,5.0
+2017,10,Los Altos Hills,7870.0,30.0
+2017,6,Burlingame,165.0,8.0
+2017,11,Carmel Valley,209.0,2.0
+2017,6,Carmel Valley,228.0,2.0
+2017,5,Lafayette,64.0,2.0
+2017,9,Lafayette,397.0,1.0
+2017,2,Los Gatos,14770.0,143.0
+2017,4,Atherton,250.0,7.0
+2017,3,Berkeley,343.0,8.0
+2017,1,Carmel Valley,213.0,1.0
+2017,2,Richmond,358.0,1.0
+2017,5,Palo Alto,58725.0,288.0
+2017,5,Los Altos,30881.0,241.0
+2017,11,Lafayette,32.0,1.0
+2017,4,San Bruno,7.0,2.0
+2017,9,Hillsborough,43.0,4.0
+2017,2,Half Moon Bay,551.0,10.0
+2017,2,Los Altos Hills,6343.0,37.0
+2017,2,Saratoga,1134.0,15.0
+2017,2,Oakland,10455.0,69.0
+2017,5,Belmont,1419.0,5.0
+2017,4,Cupertino,1470.0,6.0
+2017,4,Woodside,1733.0,23.0
+2017,3,San Francisco,3885.0,64.0
+2017,8,San Mateo,1189.0,22.0
+2017,8,Watsonville,250.0,1.0
+2017,10,Atherton,452.0,7.0
+2017,2,Moraga,4.0,2.0
+2017,1,San Jose,1227.0,2.0
+2017,3,Foster City,880.0,13.0
+2017,6,Millbrae,6.0,3.0
+2017,1,Fremont,10.0,1.0
+2017,4,East Palo Alto,32.0,2.0
+2017,11,Oakland,11370.0,38.0
+2017,1,Aptos,418.0,11.0
+2017,1,Morgan Hill,336.0,2.0
+2017,11,Richmond,1.0,1.0
+2017,11,Half Moon Bay,649.0,5.0
+2017,5,San Jose,48.0,5.0
+2017,4,Mountain View,12738.0,82.0
+2017,10,Redwood City,1607.0,14.0
+2017,11,Los Altos,29854.0,209.0
+2017,8,Redwood City,3606.0,21.0
+2017,9,Alameda,45.0,3.0
+2017,1,Sunnyvale,4187.0,49.0
+2017,1,Foster City,669.0,14.0
+2017,3,Woodside,1664.0,24.0
+2017,9,Burlingame,1364.0,12.0
+2017,11,San Jose,57.0,3.0
+2017,9,Brookdale,4.0,1.0
+2017,9,Orinda,499.0,1.0
+2017,7,Woodside,2184.0,25.0
+2017,6,Foster City,826.0,13.0
+2017,9,Watsonville,207.0,1.0
+2017,2,Santa Clara,3.0,2.0
+2017,1,Los Altos Hills,8405.0,39.0
+2017,1,Boulder Creek,127.0,4.0
+2017,2,Watsonville,86.0,3.0
+2017,1,Colma,24.0,1.0
+2017,6,Oakland,11742.0,49.0
+2017,3,Hillsborough,2.0,2.0
+2017,9,Redwood City,2144.0,18.0
+2017,10,Aptos,440.0,13.0
+2017,8,Palo Alto,62459.0,299.0
+2017,4,Brisbane,5462.0,45.0
+2017,5,Soquel,8080.0,94.0
+2017,8,Morgan Hill,951.0,2.0
+2017,4,Carmel Valley,203.0,2.0
+2017,4,Moraga,393.0,2.0
+2017,11,Palo Alto,60552.0,259.0
+2017,8,Oakland,10983.0,39.0
+2017,10,Oakland,8796.0,36.0
+2017,6,Redwood City,1690.0,15.0
+2017,3,San Mateo,1120.0,15.0
+2017,11,Berkeley,80.0,5.0
+2017,8,Fremont,15.0,1.0
+2017,11,Piedmont,10.0,3.0
+2017,5,Santa Cruz,23092.0,139.0
+2017,8,Soquel,10120.0,86.0
+2017,10,South San Francisco,237.0,9.0
+2017,11,East Palo Alto,9.0,2.0
+2017,6,Soquel,7478.0,89.0
+2017,9,Napa,1.0,1.0
+2017,11,Boulder Creek,125.0,5.0
+2017,8,Atherton,517.0,9.0
+2017,7,Portola Valley,7655.0,48.0
+2017,7,Moraga,245.0,1.0
+2017,3,Piedmont,126.0,2.0
+2017,4,Los Altos,38305.0,250.0
+2017,4,Santa Cruz,23738.0,135.0
+2017,9,Pacifica,9574.0,66.0
+2017,10,Hayward,14.0,3.0
+2017,7,Soquel,7007.0,85.0
+2017,1,San Bruno,11.0,7.0
+2017,3,San Jose,144.0,6.0
+2017,1,Mount Hermon,1.0,1.0
+2017,10,Los Altos,20430.0,184.0
+2017,11,Ben Lomond,136.0,3.0
+2017,5,Millbrae,2.0,1.0
+2017,9,Oakland,9904.0,45.0
+2017,5,Berkeley,410.0,2.0
+2017,8,Aptos,1262.0,19.0
+2017,6,Watsonville,160.0,1.0
+2017,2,Cupertino,1113.0,4.0
+2017,7,Mountain View,4562.0,64.0
+2017,7,Lafayette,2.0,1.0
+2017,5,Burlingame,66.0,11.0
+2017,6,San Mateo,1470.0,15.0
+2017,4,Menlo Park,3061.0,37.0
+2017,3,Brisbane,6264.0,53.0
+2017,1,Redwood City,1846.0,23.0
+2017,11,Santa Cruz,27772.0,142.0
+2017,2,Mount Hermon,1.0,1.0
+2017,2,Belmont,620.0,8.0
+2017,6,Los Gatos,26198.0,158.0
+2017,6,South San Francisco,831.0,14.0
+2017,7,Cupertino,279.0,2.0
+2017,6,Sunnyvale,430.0,24.0
+2017,3,San Bruno,4.0,4.0
+2017,1,Kensington,1.0,1.0
+2017,2,Campbell,4.0,1.0
+2017,1,Portola Valley,8131.0,55.0
+2017,9,Morgan Hill,720.0,2.0
+2017,2,Alameda,74.0,5.0
+2017,2,Portola Valley,6396.0,53.0
+2017,6,Portola Valley,6603.0,54.0
+2017,11,Hillsborough,3.0,2.0
+2017,3,San Pablo,2.0,1.0
+2017,8,Felton,553.0,10.0
+2017,3,San Leandro,12.0,1.0
+2017,2,Carmel Valley,157.0,1.0
+2017,5,Los Altos Hills,9924.0,43.0
+2017,6,El Cerrito,1.0,1.0
+2017,3,Fremont,801.0,4.0
+2017,3,Millbrae,11.0,3.0
+2017,7,Carmel Valley,320.0,2.0
+2017,6,Daly City,1342.0,11.0
+2017,9,South San Francisco,629.0,20.0
+2017,6,Boulder Creek,292.0,7.0
+2017,1,Capitola,1945.0,17.0
+2017,1,Cupertino,2372.0,3.0
+2017,3,Lafayette,312.0,3.0
+2017,8,San Bruno,1242.0,8.0
+2017,8,Lafayette,176.0,1.0
+2017,1,Felton,195.0,11.0
+2017,7,Foster City,587.0,11.0
+2017,7,Palo Alto,53126.0,273.0
+2017,5,Fremont,265.0,4.0
+2017,2,Los Altos,24472.0,237.0
+2017,3,Daly City,3573.0,16.0
+2017,8,Alameda,61.0,2.0
+2017,6,Menlo Park,1708.0,36.0
+2017,11,Menlo Park,2360.0,28.0
+2017,11,Portola Valley,5999.0,40.0
+2017,6,Mountain View,4686.0,71.0
+2017,5,Alameda,32.0,2.0
+2017,9,Half Moon Bay,657.0,12.0
+2017,9,Ben Lomond,260.0,3.0
+2017,9,Soquel,10607.0,90.0
+2017,3,Half Moon Bay,412.0,7.0
+2017,2,Woodside,1030.0,22.0
+2017,5,Redwood City,2086.0,23.0
+2017,10,Saratoga,1126.0,11.0
+2017,9,Millbrae,9.0,1.0
+2017,11,Orinda,663.0,1.0
+2017,8,Hayward,80.0,1.0
+2017,10,Santa Cruz,16305.0,122.0
+2017,9,East Palo Alto,25.0,3.0
+2017,6,Danville,4.0,1.0
+2017,2,Brentwood,74.0,1.0
+2017,10,Orinda,232.0,1.0
+2017,6,Los Altos,29576.0,235.0
+2017,10,Cupertino,51.0,2.0
+2017,4,San Leandro,2.0,1.0
+2017,6,Atherton,575.0,11.0
+2017,7,Orinda,348.0,1.0
+2017,2,Aptos,538.0,11.0
+2017,5,Piedmont,1.0,1.0
+2017,7,Alameda,49.0,3.0
+2017,2,Foster City,704.0,15.0
+2017,4,Portola Valley,9997.0,61.0
+2017,3,San Carlos,2.0,2.0
+2017,4,Morgan Hill,535.0,2.0
+2017,10,Soquel,4965.0,79.0
+2017,5,Atherton,463.0,11.0
+2017,3,East Palo Alto,36.0,3.0
+2017,4,Los Altos Hills,11344.0,39.0
+2017,3,Boulder Creek,132.0,8.0
+2017,9,Mountain View,5448.0,69.0
+2017,2,San Pablo,1.0,1.0
+2017,1,La Selva Beach,26.0,2.0
+2017,11,Pacifica,6480.0,58.0
+2017,10,San Mateo,326.0,17.0
+2017,9,Sunnyvale,697.0,22.0
+2017,10,Antioch,2.0,1.0
+2017,7,San Francisco,2941.0,38.0
+2017,10,Portola Valley,5961.0,47.0
+2017,10,Pacifica,5625.0,61.0
+2017,9,Boulder Creek,260.0,5.0
+2017,9,San Francisco,6429.0,41.0
+2017,1,Alameda,98.0,4.0
+2017,11,Soquel,10656.0,98.0
+2017,6,Morgan Hill,637.0,2.0
+2017,1,Santa Cruz,15198.0,116.0
+2017,5,Aptos,628.0,12.0
+2017,4,Watsonville,217.0,2.0
+2017,10,Morgan Hill,1064.0,2.0
+2017,2,Ben Lomond,16.0,2.0
+2017,11,Fremont,9.0,1.0
+2017,10,Half Moon Bay,367.0,6.0
+2017,4,San Mateo,1458.0,15.0
+2017,7,Millbrae,41.0,4.0
+2017,1,San Francisco,3145.0,52.0
+2017,4,Santa Clara,1.0,1.0
+2017,5,Half Moon Bay,186.0,11.0
+2017,11,Woodside,1179.0,14.0
+2017,8,San Francisco,3701.0,40.0
+2017,9,Capitola,2653.0,15.0
+2017,7,Los Gatos,29127.0,167.0
+2017,9,Cupertino,424.0,3.0
+2017,4,Foster City,957.0,14.0
+2017,2,Menlo Park,4288.0,45.0
+2017,7,Redwood City,2252.0,15.0
+2017,10,Mountain View,3238.0,51.0
+2017,2,Millbrae,139.0,10.0
+2017,2,San Gregorio,1.0,1.0
+2017,10,Hillsborough,48.0,1.0
+2017,5,Portola Valley,9487.0,55.0
+2017,8,Berkeley,17.0,2.0
+2017,4,South San Francisco,855.0,19.0
+2017,4,Fremont,573.0,4.0
+2017,2,San Francisco,2616.0,54.0
+2017,7,Capitola,2742.0,20.0
+2017,7,Daly City,1762.0,9.0
+2017,11,Sunnyvale,1414.0,34.0
+2017,7,South San Francisco,1484.0,41.0
+2017,11,Union City,382.0,1.0
+2017,5,Ben Lomond,141.0,3.0
+2017,6,Capitola,2986.0,17.0
+2017,6,Cupertino,816.0,3.0
+2017,10,East Palo Alto,39.0,3.0
+2017,9,Castro Valley,2.0,2.0
+2017,4,Ben Lomond,113.0,3.0
+2017,5,Moraga,285.0,2.0
+2017,1,Atherton,194.0,8.0
+2017,9,Moraga,557.0,2.0
+2017,11,San Bruno,161.0,8.0
+2017,10,Woodside,822.0,11.0
+2017,7,Scotts Valley,16604.0,88.0
+2017,4,Alameda,18.0,2.0
+2017,5,South San Francisco,1268.0,24.0
+2017,1,South San Francisco,1508.0,28.0
+2017,4,Boulder Creek,321.0,6.0
+2017,8,Millbrae,56.0,6.0
+2017,8,Los Altos Hills,9940.0,38.0
+2017,6,Saratoga,1212.0,15.0
+2017,3,Mountain View,9568.0,82.0
+2017,6,Aptos,663.0,10.0
+2017,1,Burlingame,322.0,49.0
+2017,3,Soquel,10136.0,96.0
+2017,7,Half Moon Bay,559.0,7.0
+2017,5,La Selva Beach,40.0,1.0
+2017,11,Bonny Doon,72.0,4.0
+2017,2,Pacifica,8060.0,63.0
+2017,3,Capitola,3303.0,18.0
+2017,3,Saratoga,1679.0,16.0
+2017,11,Brentwood,1.0,1.0
+2017,10,San Francisco,4661.0,40.0
+2017,10,Felton,275.0,9.0
+2017,6,Pacifica,6729.0,75.0
+2017,3,Carmel Valley,175.0,1.0
+2017,6,Hillsborough,52.0,4.0
+2017,4,Burlingame,115.0,10.0
+2017,1,Oakland,9362.0,34.0
+2017,8,San Jose,23.0,4.0
+2017,9,Los Altos Hills,9003.0,34.0
+2017,9,Berkeley,52.0,6.0
+2017,7,Ben Lomond,122.0,2.0
+2017,8,Half Moon Bay,571.0,9.0
+2017,5,Morgan Hill,481.0,2.0
+2017,3,Atherton,220.0,7.0
+2017,5,Sunnyvale,1146.0,34.0
+2017,10,Foster City,427.0,13.0
+2017,10,Fremont,17.0,2.0
+2017,4,Piedmont,38.0,1.0
+2017,8,La Selva Beach,3.0,1.0
+2017,10,Alameda,13.0,2.0
+2017,6,Scotts Valley,15145.0,92.0
+2017,4,Scotts Valley,12858.0,86.0
+2017,3,Pacifica,9435.0,64.0
+2017,1,Los Gatos,18244.0,153.0
+2017,3,Sunnyvale,1287.0,28.0
+2017,6,Alameda,47.0,3.0
+2017,10,Los Gatos,18475.0,157.0
+2017,10,Carmel Valley,92.0,2.0
+2017,9,Los Gatos,30034.0,175.0
+2017,4,El Sobrante,2.0,1.0
+2017,2,Fremont,182.0,3.0
+2017,2,Lafayette,248.0,4.0
+2017,5,Santa Clara,19.0,1.0
+2017,7,Aptos,751.0,12.0
+2017,6,Point Richmond,1.0,1.0
+2017,2,Atherton,262.0,6.0
+2017,1,Soquel,4923.0,82.0
+2017,5,Woodside,1518.0,23.0
+2017,3,Ben Lomond,39.0,4.0
+2017,9,Carmel Valley,279.0,3.0
+2017,2,San Carlos,10.0,4.0
+2017,9,San Ramon,1.0,1.0
+2017,7,Los Altos,25654.0,211.0
+2017,2,South San Francisco,919.0,24.0
+2017,2,Piedmont,23.0,5.0
+2017,4,Sunnyvale,823.0,24.0
+2017,9,Felton,725.0,8.0
+2017,9,San Lorenzo,1.0,1.0
+2017,8,Orinda,451.0,2.0
+2017,5,Daly City,2272.0,14.0
+2017,5,San Carlos,12.0,5.0
+2017,1,San Leandro,15.0,1.0
+2017,5,Pacifica,8900.0,64.0
+2017,2,Mountain View,11000.0,111.0
+2017,5,Scotts Valley,14795.0,95.0
+2017,4,Aptos,803.0,10.0
+2017,10,Daly City,2146.0,11.0
+2017,1,Woodside,1434.0,23.0
+2017,2,Scotts Valley,7996.0,87.0
+2017,11,Cupertino,819.0,3.0
+2017,7,Oakland,11054.0,43.0
+2017,7,San Carlos,8.0,2.0
+2017,8,Moraga,143.0,1.0
+2017,7,Pinole,1.0,1.0
+2017,11,Moraga,325.0,1.0
+2017,11,Alameda,22.0,1.0
+2017,2,Berkeley,73.0,5.0
+2017,9,Palo Alto,57474.0,296.0
+2017,2,Morgan Hill,412.0,2.0
+2017,9,San Jose,57.0,4.0
+2017,2,Sunnyvale,3928.0,42.0
+2017,4,Los Gatos,27325.0,163.0
+2017,1,Half Moon Bay,631.0,11.0
+2017,8,Belmont,901.0,3.0
+2017,4,Belmont,1485.0,3.0
+2017,1,Daly City,1513.0,12.0
+2017,8,Saratoga,1697.0,16.0
+2017,3,Union City,2.0,1.0
+2017,6,Woodside,1665.0,26.0
+2017,3,Aptos,357.0,10.0
+2017,6,Santa Cruz,21162.0,144.0
+2017,11,Redwood City,2045.0,20.0
+2017,5,Orinda,438.0,1.0
+2017,3,Los Altos Hills,10369.0,38.0
+2017,7,San Bruno,518.0,12.0
+2017,1,Richmond,177.0,1.0
+2017,9,Woodside,1732.0,18.0
+2017,8,San Carlos,7.0,4.0
+2017,3,Los Altos,36711.0,239.0
+2017,3,Morgan Hill,540.0,3.0
+2017,11,Mountain View,13201.0,96.0
+2017,1,Corte Madera,4.0,1.0
+2017,2,Soquel,5105.0,91.0
+2017,4,Felton,438.0,11.0
+2017,11,South San Francisco,533.0,23.0
+2017,10,Burlingame,1199.0,12.0
+2017,10,Bonny Doon,47.0,2.0
+2017,5,Boulder Creek,295.0,8.0
+2017,8,Scotts Valley,19995.0,91.0
+2017,8,Carmel Valley,377.0,3.0
+2017,4,Millbrae,1.0,1.0
+2017,2,Palo Alto,45954.0,289.0
+2017,10,Watsonville,268.0,1.0
+2017,4,San Carlos,1.0,1.0
+2017,3,Richmond,178.0,1.0
+2017,5,Mountain View,10068.0,90.0
+2017,10,Capitola,1885.0,17.0
+2017,3,Palo Alto,62865.0,310.0
+2017,4,Monte Sereno,20.0,1.0
+2017,2,San Jose,521.0,2.0
+2017,7,Burlingame,510.0,29.0
+2017,11,Watsonville,121.0,1.0
+2017,5,Cupertino,1699.0,4.0
+2017,3,El Cerrito,1.0,1.0
+2017,3,Redwood City,1671.0,22.0
+2017,9,Atherton,230.0,8.0
+2017,10,Berkeley,21.0,4.0
+2017,6,San Bruno,268.0,3.0
+2017,6,East Palo Alto,107.0,2.0
+2017,11,Foster City,498.0,12.0
+2017,1,Los Altos,29209.0,241.0
+2017,9,Belmont,716.0,4.0
+2017,9,Pleasanton,5.0,3.0
+2017,4,Palo Alto,54280.0,299.0
+2017,6,San Carlos,2.0,2.0
+2017,7,Morgan Hill,553.0,2.0
+2017,7,Berkeley,66.0,1.0
+2017,6,Felton,615.0,11.0
+2017,9,Foster City,382.0,16.0
+2017,1,Menlo Park,3722.0,43.0
+2017,5,San Francisco,3986.0,49.0
+2017,11,Hayward,51.0,2.0
+2017,7,Bonny Doon,1.0,1.0
+2017,8,South San Francisco,936.0,23.0
+2017,7,San Mateo,707.0,20.0
+2017,5,Carmel Valley,208.0,2.0
+2017,10,Santa Clara,1.0,1.0
+2017,6,Palo Alto,58507.0,295.0
+2017,4,Oakland,11011.0,55.0
+2017,5,Hillsborough,10.0,6.0
+2017,8,Los Altos,32854.0,203.0
+2017,10,Moraga,224.0,1.0
+2017,11,Millbrae,15.0,6.0
+2017,9,Santa Cruz,27031.0,148.0
+2017,1,Berkeley,57.0,5.0
+2017,2,San Mateo,1159.0,26.0
+2017,2,San Bruno,3.0,3.0
+2017,2,Hillsborough,63.0,8.0
+2017,1,Brisbane,3858.0,49.0
+2017,9,Hayward,692.0,15.0
+2017,4,Saratoga,1177.0,12.0
+2017,6,Los Altos Hills,9507.0,36.0
+2017,3,Felton,754.0,12.0
+2017,3,Alameda,36.0,4.0
+2017,2,Brisbane,3759.0,53.0
+2017,8,Menlo Park,2519.0,33.0
+2017,8,Cupertino,506.0,2.0
+2017,5,Oakland,11648.0,48.0
+2017,8,Boulder Creek,302.0,7.0
+2017,1,Millbrae,217.0,7.0
+2017,8,Sunnyvale,635.0,16.0
+2017,9,Piedmont,1.0,1.0
+2017,3,South San Francisco,1213.0,21.0
+2017,5,San Ramon,1.0,1.0
+2017,7,Felton,522.0,10.0
+2017,11,Los Altos Hills,9136.0,28.0
+2017,4,San Jose,83.0,3.0
+2017,8,Foster City,502.0,15.0
+2017,2,Santa Cruz,15765.0,130.0
+2017,6,Fremont,63.0,2.0
+2017,11,San Carlos,23.0,3.0
+2017,6,Half Moon Bay,397.0,9.0
+2017,6,Novato,1.0,1.0
+2017,9,Fremont,17.0,1.0
+2017,7,Atherton,703.0,7.0
+2017,6,Orinda,470.0,1.0
+2017,6,Berkeley,53.0,3.0
+2017,10,Palo Alto,46338.0,239.0
+2017,10,Murphys,6.0,1.0
+2017,8,Ben Lomond,158.0,4.0
+2017,8,Hillsborough,87.0,10.0
+2017,4,Redwood City,1770.0,20.0
+2017,5,East Palo Alto,34.0,3.0
+2017,4,Daly City,2990.0,17.0
+2017,5,San Mateo,1384.0,15.0
+2017,11,Brisbane,3962.0,42.0
+2017,10,Menlo Park,1772.0,23.0
+2017,1,Watsonville,4.0,1.0
+2017,9,Portola Valley,9752.0,57.0
+2017,2,Redwood City,2068.0,28.0
+2017,4,Capitola,2861.0,22.0
+2017,8,Bonny Doon,206.0,4.0
+2017,9,Los Altos,29415.0,193.0
+2017,9,Daly City,2942.0,11.0
+2017,8,Woodside,2563.0,25.0
+2017,5,Felton,635.0,13.0
+2017,2,Burlingame,15.0,10.0
+2017,4,Orinda,124.0,1.0
+2017,5,Foster City,979.0,8.0
+2017,5,Brisbane,4368.0,51.0
+2017,9,San Bruno,630.0,6.0
+2017,1,Belmont,357.0,8.0
+2017,3,Burlingame,118.0,12.0
+2017,8,Capitola,3359.0,20.0
+2017,11,Burlingame,1190.0,5.0
+2017,3,Brentwood,6.0,1.0
+2017,3,Orinda,1.0,1.0
+2017,11,Brookdale,3.0,1.0
+2017,3,Santa Cruz,26212.0,140.0
+2017,3,Portola Valley,8590.0,55.0
+2017,1,Union City,1.0,1.0
+2017,5,Menlo Park,2946.0,44.0
+2017,11,Atherton,743.0,7.0
+2017,8,Pescadero,18.0,1.0
+2017,1,Mountain View,7023.0,64.0
+2017,7,Hillsborough,46.0,7.0
+2017,8,Pacifica,7708.0,55.0
+2017,10,Brisbane,2828.0,38.0
+2017,7,Pacifica,6408.0,70.0
+2017,9,Brisbane,3760.0,44.0
+2016,2,Chico,1.0,1.0
+2016,3,Felton,1482.0,9.0
+2016,5,Capitola,4388.0,39.0
+2016,8,Moraga,148.0,1.0
+2016,10,San Mateo,970.0,18.0
+2016,2,Saratoga,1916.0,28.0
+2016,9,Morgan Hill,332.0,3.0
+2016,2,Alameda,4.0,2.0
+2016,3,Daly City,1941.0,7.0
+2016,1,Daly City,1687.0,6.0
+2016,8,Sunnyvale,203.0,11.0
+2016,12,Soquel,7406.0,101.0
+2016,4,Boulder Creek,194.0,7.0
+2016,8,Burlingame,227.0,16.0
+2016,1,Pacifica,4299.0,78.0
+2016,11,Atherton,440.0,8.0
+2016,11,Aptos,304.0,11.0
+2016,3,Castro Valley,4.0,1.0
+2016,7,Foster City,894.0,23.0
+2016,9,Moraga,177.0,1.0
+2016,6,Burlingame,197.0,32.0
+2016,1,Penngrove,1.0,1.0
+2016,1,Aptos,478.0,9.0
+2016,2,La Honda,6.0,1.0
+2016,12,Felton,286.0,16.0
+2016,4,Portola Valley,7890.0,64.0
+2016,5,San Carlos,47.0,3.0
+2016,2,Capitola,4563.0,46.0
+2016,2,Scotts Valley,28828.0,109.0
+2016,1,Los Gatos,40436.0,206.0
+2016,9,Burlingame,537.0,16.0
+2016,1,Alameda,5.0,3.0
+2016,1,Santa Cruz,27210.0,154.0
+2016,7,Campbell,1.0,1.0
+2016,10,Menlo Park,5440.0,52.0
+2016,3,San Leandro,53.0,2.0
+2016,11,Mountain View,7148.0,82.0
+2016,6,Soquel,9947.0,114.0
+2016,9,Half Moon Bay,374.0,6.0
+2016,6,Aptos,204.0,8.0
+2016,3,San Bruno,6.0,3.0
+2016,5,Lafayette,81.0,2.0
+2016,3,Boulder Creek,114.0,8.0
+2016,2,San Mateo,454.0,11.0
+2016,4,Castro Valley,2.0,1.0
+2016,4,Fremont,4.0,1.0
+2016,9,Other Communities,,
+2016,7,Scotts Valley,21141.0,115.0
+2016,7,Millbrae,8.0,7.0
+2016,12,Mountain View,6461.0,65.0
+2016,2,San Carlos,9.0,5.0
+2016,11,Carmel,554.0,1.0
+2016,7,Aptos,288.0,8.0
+2016,6,Sunnyvale,3.0,2.0
+2016,2,Soquel,13776.0,136.0
+2016,11,Redwood City,2826.0,21.0
+2016,1,Belmont,7.0,4.0
+2016,1,Saratoga,1930.0,20.0
+2016,5,Carmel Valley,36.0,1.0
+2016,7,San Francisco,6429.0,59.0
+2016,11,Watsonville,120.0,3.0
+2016,5,Alameda,78.0,4.0
+2016,11,Morgan Hill,353.0,3.0
+2016,1,Palo Alto,44932.0,289.0
+2016,3,Menlo Park,3229.0,36.0
+2016,5,Los Gatos,50110.0,234.0
+2016,5,Ben Lomond,35.0,2.0
+2016,5,Redwood City,3567.0,30.0
+2016,10,Millbrae,11.0,7.0
+2016,8,San Mateo,1525.0,24.0
+2016,10,Santa Cruz,26887.0,163.0
+2016,8,Watsonville,197.0,2.0
+2016,4,Brisbane,4806.0,65.0
+2016,2,Aptos,212.0,8.0
+2016,11,Danville,1.0,1.0
+2016,10,San Leandro,48.0,1.0
+2016,1,Los Altos,29153.0,224.0
+2016,6,Los Altos Hills,12304.0,65.0
+2016,7,La Selva Beach,111.0,2.0
+2016,10,Morgan Hill,349.0,3.0
+2016,4,Menlo Park,4061.0,39.0
+2016,7,South San Francisco,44.0,13.0
+2016,5,Cupertino,1.0,1.0
+2016,11,Daly City,5084.0,16.0
+2016,6,South San Francisco,209.0,11.0
+2016,12,South San Francisco,592.0,25.0
+2016,2,Watsonville,42.0,1.0
+2016,1,San Mateo,157.0,10.0
+2016,5,La Selva Beach,174.0,2.0
+2016,9,Brisbane,5619.0,55.0
+2016,5,Fremont,8.0,1.0
+2016,8,San Jose,4.0,3.0
+2016,3,Los Altos,43428.0,264.0
+2016,5,Oakland,7323.0,36.0
+2016,12,Cupertino,1989.0,5.0
+2016,3,Brisbane,4651.0,59.0
+2016,5,San Jose,8.0,1.0
+2016,8,La Selva Beach,70.0,2.0
+2016,11,Moraga,93.0,2.0
+2016,12,Berkeley,231.0,2.0
+2016,12,Sunnyvale,3628.0,66.0
+2016,11,Oakland,12732.0,40.0
+2016,9,Oakland,9757.0,41.0
+2016,6,The Sea Ranch,1.0,1.0
+2016,10,Campbell,1.0,1.0
+2016,6,Watsonville,336.0,2.0
+2016,8,Fremont,64.0,2.0
+2016,6,San Francisco,7620.0,74.0
+2016,3,Richmond,1.0,1.0
+2016,7,Carmel Valley,48.0,1.0
+2016,10,Boulder Creek,254.0,8.0
+2016,3,Belmont,426.0,2.0
+2016,11,Fremont,18.0,1.0
+2016,1,Kensington,1.0,1.0
+2016,10,San Bruno,8.0,6.0
+2016,1,Burlingame,8.0,5.0
+2016,1,Oakland,494.0,58.0
+2016,5,Sunnyvale,9.0,2.0
+2016,2,La Selva Beach,16.0,2.0
+2016,12,Watsonville,128.0,2.0
+2016,2,Mountain View,1998.0,28.0
+2016,5,Morgan Hill,1.0,1.0
+2016,2,Carmel Valley,32.0,1.0
+2016,4,Ben Lomond,12.0,1.0
+2016,10,San Francisco,5341.0,80.0
+2016,10,Los Altos,48953.0,364.0
+2016,1,The Sea Ranch,3.0,1.0
+2016,1,Portola Valley,31451.0,46.0
+2016,7,Moraga,67.0,1.0
+2016,3,Pacifica,4234.0,45.0
+2016,8,Mountain View,3789.0,50.0
+2016,5,Brisbane,6020.0,83.0
+2016,3,Mountain View,3397.0,34.0
+2016,2,Los Gatos,40436.0,213.0
+2016,11,Scotts Valley,13765.0,105.0
+2016,8,Santa Clara,40.0,2.0
+2016,9,Portola Valley,5174.0,63.0
+2016,4,Burlingame,19.0,3.0
+2016,5,Foster City,168.0,11.0
+2016,3,Soquel,10048.0,126.0
+2016,3,Walnut Creek,1.0,1.0
+2016,6,Foster City,215.0,18.0
+2016,9,San Jose,46.0,2.0
+2016,8,Saratoga,1702.0,21.0
+2016,6,Woodside,4272.0,47.0
+2016,8,Brisbane,4839.0,46.0
+2016,11,San Jose,92.0,7.0
+2016,4,San Mateo,587.0,9.0
+2016,9,Pacifica,4778.0,53.0
+2016,8,Los Altos,53295.0,342.0
+2016,3,San Francisco,3993.0,40.0
+2016,12,Half Moon Bay,1092.0,5.0
+2016,10,Mountain View,7830.0,80.0
+2016,8,Morgan Hill,654.0,3.0
+2016,2,Ben Lomond,28.0,1.0
+2016,6,Redwood City,3415.0,29.0
+2016,6,Alameda,90.0,4.0
+2016,6,Carmel,1.0,1.0
+2016,1,Sunnyvale,44.0,6.0
+2016,1,South San Francisco,59.0,12.0
+2016,5,Walnut Creek,1.0,1.0
+2016,7,Los Altos Hills,14547.0,66.0
+2016,9,El Sobrante,6.0,1.0
+2016,7,Berkeley,1.0,1.0
+2016,10,Brisbane,8676.0,95.0
+2016,10,Burlingame,602.0,12.0
+2016,12,Menlo Park,4174.0,41.0
+2016,4,Los Altos Hills,16276.0,59.0
+2016,2,Emerald Hills,14.0,1.0
+2016,5,Palo Alto,83334.0,454.0
+2016,6,Saratoga,2091.0,23.0
+2016,7,Portola Valley,7153.0,71.0
+2016,4,Watsonville,126.0,1.0
+2016,6,Morgan Hill,369.0,1.0
+2016,3,Sunnyvale,24.0,3.0
+2016,3,Santa Cruz,25837.0,168.0
+2016,11,Portola Valley,6463.0,68.0
+2016,9,San Mateo,1566.0,23.0
+2016,12,Los Altos,30851.0,279.0
+2016,10,Santa Clara,23.0,2.0
+2016,7,Brisbane,3413.0,52.0
+2016,8,Portola Valley,6630.0,64.0
+2016,9,Los Altos,44204.0,337.0
+2016,4,Berkeley,16.0,2.0
+2016,3,Woodside,1526.0,14.0
+2016,5,East Palo Alto,196.0,1.0
+2016,9,Redwood City,2354.0,35.0
+2016,2,Boulder Creek,81.0,7.0
+2016,8,Atherton,123.0,6.0
+2016,4,Alameda,1.0,1.0
+2016,1,Moraga,1.0,1.0
+2016,8,San Francisco,5169.0,44.0
+2016,8,Pacifica,4742.0,47.0
+2016,5,Portola Valley,8745.0,67.0
+2016,3,South San Francisco,771.0,17.0
+2016,8,Carmel Valley,28.0,2.0
+2016,4,Oakland,5219.0,28.0
+2016,12,Burlingame,326.0,9.0
+2016,5,Belmont,724.0,2.0
+2016,5,Felton,1968.0,11.0
+2016,2,Los Altos Hills,16487.0,40.0
+2016,12,Richmond,179.0,1.0
+2016,10,El Sobrante,3.0,1.0
+2016,1,Belvedere-Tiburon,1.0,1.0
+2016,9,Mountain View,4249.0,42.0
+2016,12,Belmont,853.0,5.0
+2016,8,Menlo Park,5718.0,43.0
+2016,12,San Mateo,1513.0,16.0
+2016,8,Los Gatos,49518.0,227.0
+2016,10,Carmel Valley,27.0,1.0
+2016,7,Woodside,3865.0,42.0
+2016,5,Watsonville,135.0,2.0
+2016,5,San Bruno,4.0,4.0
+2016,2,Sunnyvale,44.0,2.0
+2016,12,Redwood City,2127.0,21.0
+2016,3,Ben Lomond,11.0,1.0
+2016,8,Alameda,11.0,2.0
+2016,10,Daly City,4575.0,13.0
+2016,11,Cupertino,312.0,5.0
+2016,11,Colma,1.0,1.0
+2016,9,Santa Cruz,20612.0,158.0
+2016,6,San Mateo,1232.0,18.0
+2016,6,Menlo Park,4490.0,40.0
+2016,6,Capitola,3840.0,35.0
+2016,10,Los Gatos,35349.0,209.0
+2016,11,Half Moon Bay,706.0,6.0
+2016,11,Piedmont,3.0,1.0
+2016,7,Palo Alto,93498.0,449.0
+2016,8,East Palo Alto,157.0,6.0
+2016,2,South San Francisco,35.0,11.0
+2016,4,San Leandro,8.0,1.0
+2016,10,Oakland,12117.0,53.0
+2016,11,Capitola,3166.0,33.0
+2016,7,Half Moon Bay,3.0,1.0
+2016,12,Woodside,2023.0,26.0
+2016,2,San Bruno,3.0,3.0
+2016,10,Foster City,1315.0,23.0
+2016,11,San Leandro,14.0,1.0
+2016,1,Ben Lomond,24.0,1.0
+2016,7,Ben Lomond,14.0,2.0
+2016,8,Millbrae,8.0,4.0
+2016,6,San Bruno,1.0,1.0
+2016,2,Santa Clara,82.0,1.0
+2016,11,Sunnyvale,2813.0,68.0
+2016,5,Moraga,431.0,1.0
+2016,4,Half Moon Bay,1.0,1.0
+2016,9,Saratoga,1517.0,18.0
+2016,9,Palo Alto,72110.0,391.0
+2016,9,Daly City,3098.0,9.0
+2016,8,Half Moon Bay,2.0,2.0
+2016,5,Soquel,11739.0,137.0
+2016,4,Felton,1897.0,11.0
+2016,7,Santa Cruz,25924.0,146.0
+2016,12,Portola Valley,7285.0,63.0
+2016,2,Richmond,1.0,1.0
+2016,6,Atherton,636.0,8.0
+2016,7,Los Gatos,51916.0,211.0
+2016,1,La Selva Beach,28.0,2.0
+2016,3,Aptos,284.0,8.0
+2016,10,Redwood City,1504.0,36.0
+2016,6,Berkeley,6.0,3.0
+2016,1,Santa Clara,42.0,1.0
+2016,8,South San Francisco,124.0,14.0
+2016,12,Hillsborough,3.0,3.0
+2016,10,Aptos,275.0,8.0
+2016,8,Daly City,3604.0,13.0
+2016,6,La Selva Beach,87.0,1.0
+2016,10,San Carlos,116.0,8.0
+2016,12,Atherton,91.0,7.0
+2016,9,Ben Lomond,14.0,2.0
+2016,5,Santa Cruz,30769.0,180.0
+2016,5,Concord,1.0,1.0
+2016,12,Aptos,299.0,9.0
+2016,9,Menlo Park,5932.0,47.0
+2016,6,East Palo Alto,45.0,1.0
+2016,10,Orinda,51.0,2.0
+2016,4,Atherton,23.0,4.0
+2016,12,Daly City,3340.0,10.0
+2016,10,South San Francisco,1148.0,85.0
+2016,10,Cupertino,8.0,4.0
+2016,8,Hillsborough,88.0,10.0
+2016,6,Boulder Creek,207.0,7.0
+2016,12,Saratoga,1362.0,17.0
+2016,9,Woodside,3483.0,30.0
+2016,3,Moraga,321.0,3.0
+2016,9,Scotts Valley,15382.0,113.0
+2016,8,San Bruno,27.0,13.0
+2016,7,Sunnyvale,64.0,13.0
+2016,6,Santa Cruz,27057.0,157.0
+2016,2,San Jose,1.0,1.0
+2016,3,Redwood City,610.0,19.0
+2016,8,Ben Lomond,11.0,2.0
+2016,10,Tracy,1.0,1.0
+2016,6,Hillsborough,177.0,14.0
+2016,4,Redwood City,1424.0,20.0
+2016,9,South San Francisco,319.0,17.0
+2016,10,Pescadero,2.0,1.0
+2016,6,Scotts Valley,22391.0,115.0
+2016,12,Los Gatos,25657.0,182.0
+2016,9,Belvedere-Tiburon,1.0,1.0
+2016,1,Scotts Valley,23239.0,110.0
+2016,4,La Selva Beach,185.0,2.0
+2016,6,Daly City,2805.0,9.0
+2016,10,The Sea Ranch,6.0,1.0
+2016,12,San Carlos,15.0,4.0
+2016,11,Los Altos,44618.0,343.0
+2016,11,San Bruno,59.0,9.0
+2016,10,Saratoga,1201.0,16.0
+2016,12,Alameda,31.0,1.0
+2016,12,San Leandro,30.0,1.0
+2016,8,Woodside,3714.0,39.0
+2016,12,San Bruno,30.0,5.0
+2016,9,Berkeley,2.0,1.0
+2016,3,Saratoga,2570.0,31.0
+2016,5,Los Altos,74236.0,446.0
+2016,9,East Palo Alto,28.0,4.0
+2016,11,Millbrae,2.0,2.0
+2016,2,Pacifica,5507.0,48.0
+2016,4,Moraga,740.0,2.0
+2016,6,Ben Lomond,10.0,2.0
+2016,10,Palo Alto,79294.0,403.0
+2016,2,Foster City,28.0,6.0
+2016,3,San Mateo,610.0,7.0
+2016,5,South San Francisco,169.0,16.0
+2016,4,Millbrae,5.0,1.0
+2016,4,South San Francisco,285.0,17.0
+2016,3,Oakland,1786.0,30.0
+2016,12,Boulder Creek,150.0,7.0
+2016,4,Aptos,325.0,9.0
+2016,1,San Carlos,4.0,3.0
+2016,9,San Francisco,4650.0,47.0
+2016,11,Menlo Park,4980.0,40.0
+2016,2,Burlingame,66.0,6.0
+2016,2,Brisbane,4375.0,66.0
+2016,7,Morgan Hill,519.0,1.0
+2016,6,Los Altos,61647.0,389.0
+2016,11,Richmond,390.0,1.0
+2016,1,Watsonville,10.0,2.0
+2016,9,Santa Clara,2.0,1.0
+2016,2,Portola Valley,5087.0,60.0
+2016,6,Pacifica,5998.0,56.0
+2016,2,Half Moon Bay,1.0,1.0
+2016,10,San Jose,13.0,8.0
+2016,12,San Jose,865.0,3.0
+2016,1,Woodside,2078.0,13.0
+2016,3,El Cerrito,1.0,1.0
+2016,3,Palo Alto,75857.0,345.0
+2016,7,Atherton,416.0,6.0
+2016,3,San Carlos,252.0,5.0
+2016,2,Menlo Park,2155.0,31.0
+2016,5,Atherton,236.0,7.0
+2016,3,Atherton,34.0,5.0
+2016,12,Fremont,18.0,1.0
+2016,3,La Selva Beach,108.0,2.0
+2016,6,Felton,981.0,10.0
+2016,2,Morgan Hill,1.0,1.0
+2016,10,Fremont,19.0,1.0
+2016,2,Felton,2537.0,8.0
+2016,9,Capitola,3471.0,37.0
+2016,12,Capitola,2419.0,26.0
+2016,12,Palo Alto,50774.0,316.0
+2016,6,Half Moon Bay,5.0,4.0
+2016,5,San Mateo,812.0,13.0
+2016,12,La Selva Beach,17.0,2.0
+2016,10,Carmel,73.0,1.0
+2016,12,Brisbane,3878.0,62.0
+2016,12,Santa Clara,16.0,1.0
+2016,3,Alameda,10.0,4.0
+2016,6,Moraga,124.0,2.0
+2016,10,La Selva Beach,67.0,2.0
+2016,7,Alameda,73.0,3.0
+2016,10,Pacifica,5668.0,57.0
+2016,10,Los Altos Hills,14206.0,58.0
+2016,7,Felton,697.0,8.0
+2016,5,Woodside,3663.0,37.0
+2016,8,Berkeley,19.0,2.0
+2016,11,Carmel Valley,109.0,1.0
+2016,7,Capitola,3788.0,33.0
+2016,10,Woodside,2466.0,23.0
+2016,12,Union City,1.0,1.0
+2016,12,Santa Cruz,20204.0,144.0
+2016,7,San Mateo,791.0,18.0
+2016,2,Redwood City,628.0,12.0
+2016,6,Belmont,685.0,8.0
+2016,6,Mountain View,2669.0,38.0
+2016,8,Union City,1.0,1.0
+2016,7,Mountain View,4191.0,48.0
+2016,9,San Carlos,17.0,5.0
+2016,9,Los Altos Hills,12385.0,56.0
+2016,9,Belmont,999.0,11.0
+2016,9,Watsonville,202.0,2.0
+2016,5,Boulder Creek,343.0,9.0
+2016,11,Los Gatos,37357.0,203.0
+2016,5,Scotts Valley,22538.0,123.0
+2016,8,Foster City,2211.0,30.0
+2016,10,Belmont,732.0,10.0
+2016,3,Orinda,1.0,1.0
+2016,9,Foster City,1738.0,27.0
+2016,11,Boulder Creek,125.0,10.0
+2016,3,Danville,3.0,3.0
+2016,11,Soquel,9572.0,109.0
+2016,11,Ben Lomond,43.0,2.0
+2016,4,Capitola,4252.0,40.0
+2016,8,Palo Alto,81265.0,385.0
+2016,7,Santa Clara,12.0,3.0
+2016,12,San Francisco,4231.0,57.0
+2016,12,Oakland,10040.0,34.0
+2016,8,Boulder Creek,505.0,8.0
+2016,10,Soquel,10171.0,123.0
+2016,1,Mountain View,4037.0,32.0
+2016,8,Felton,1184.0,12.0
+2016,2,San Francisco,2968.0,41.0
+2016,7,Los Altos,69884.0,391.0
+2016,11,Santa Clara,8.0,2.0
+2016,9,Boulder Creek,611.0,8.0
+2016,11,South San Francisco,1386.0,40.0
+2016,5,San Leandro,32.0,2.0
+2016,4,Daly City,1614.0,5.0
+2016,7,Pacifica,4536.0,56.0
+2016,1,Foster City,31.0,9.0
+2016,2,Woodside,579.0,13.0
+2016,4,Los Gatos,46723.0,211.0
+2016,7,Burlingame,762.0,30.0
+2016,1,Soquel,13684.0,129.0
+2016,10,Capitola,3804.0,40.0
+2016,5,Montara,1.0,1.0
+2016,8,San Carlos,16.0,4.0
+2016,4,Sunnyvale,26.0,2.0
+2016,11,Los Altos Hills,12766.0,54.0
+2016,1,El Cerrito,2.0,1.0
+2016,3,Hillsborough,1.0,1.0
+2016,7,San Pablo,1.0,1.0
+2016,3,Pleasanton,18.0,2.0
+2016,12,Moraga,32.0,3.0
+2016,7,Watsonville,176.0,2.0
+2016,11,San Carlos,59.0,3.0
+2016,6,San Carlos,27.0,4.0
+2016,2,Stanford,2319.0,6.0
+2016,2,Pleasanton,24.0,1.0
+2016,5,Menlo Park,5473.0,49.0
+2016,1,Felton,1056.0,10.0
+2016,7,Hillsborough,426.0,17.0
+2016,6,Carmel Valley,52.0,1.0
+2016,10,Felton,587.0,11.0
+2016,3,Belvedere-Tiburon,7.0,5.0
+2016,2,Daly City,1467.0,6.0
+2016,11,Alameda,31.0,2.0
+2016,12,Los Altos Hills,10031.0,45.0
+2016,9,Atherton,241.0,7.0
+2016,10,East Palo Alto,32.0,5.0
+2016,9,Richmond,485.0,1.0
+2016,9,Aptos,172.0,8.0
+2016,8,Belmont,975.0,7.0
+2016,1,Clovis,1.0,1.0
+2016,7,Boulder Creek,318.0,8.0
+2016,2,Atherton,45.0,2.0
+2016,9,Alameda,16.0,2.0
+2016,12,Piedmont,8.0,1.0
+2016,11,Belmont,774.0,4.0
+2016,1,San Leandro,2.0,1.0
+2016,7,East Palo Alto,81.0,7.0
+2016,2,Hayward,1.0,1.0
+2016,11,Felton,577.0,9.0
+2016,6,Brisbane,3008.0,55.0
+2016,10,Belvedere-Tiburon,1.0,1.0
+2016,2,Santa Cruz,25367.0,165.0
+2016,7,San Carlos,31.0,5.0
+2016,11,Palo Alto,70210.0,360.0
+2016,1,Millbrae,1.0,1.0
+2016,5,San Francisco,10126.0,84.0
+2016,1,Redwood City,561.0,23.0
+2016,11,Berkeley,20.0,2.0
+2016,4,Mountain View,2374.0,33.0
+2016,1,San Jose,1.0,1.0
+2016,3,Watsonville,132.0,2.0
+2016,9,Sunnyvale,565.0,39.0
+2016,4,Palo Alto,69498.0,365.0
+2016,4,Scotts Valley,23111.0,126.0
+2016,12,Danville,1.0,1.0
+2016,10,Half Moon Bay,910.0,5.0
+2016,12,San Gregorio,1.0,1.0
+2016,8,Soquel,9544.0,116.0
+2016,9,Hillsborough,113.0,11.0
+2016,5,Half Moon Bay,2.0,2.0
+2016,7,Daly City,3101.0,10.0
+2016,6,Millbrae,22.0,6.0
+2016,9,San Bruno,5.0,4.0
+2016,4,Santa Cruz,27436.0,177.0
+2016,7,Saratoga,2212.0,22.0
+2016,12,Morgan Hill,236.0,2.0
+2016,1,Brisbane,3999.0,56.0
+2016,12,Foster City,468.0,10.0
+2016,10,Scotts Valley,15447.0,113.0
+2016,3,Millbrae,5.0,3.0
+2016,4,San Francisco,4603.0,53.0
+2016,9,La Selva Beach,28.0,2.0
+2016,3,Capitola,4940.0,39.0
+2016,1,San Francisco,2682.0,52.0
+2016,4,Belmont,429.0,3.0
+2016,5,Millbrae,10.0,9.0
+2016,12,Colma,3.0,1.0
+2016,7,San Bruno,4.0,4.0
+2016,3,Portola Valley,7134.0,63.0
+2016,8,Santa Cruz,23440.0,157.0
+2016,11,Saratoga,1896.0,16.0
+2016,5,Berkeley,3.0,2.0
+2016,3,Los Gatos,42507.0,218.0
+2016,7,Soquel,10043.0,105.0
+2016,10,Sunnyvale,1345.0,57.0
+2016,3,The Sea Ranch,3.0,1.0
+2016,2,San Leandro,2.0,1.0
+2016,1,Atherton,147.0,1.0
+2016,3,Los Altos Hills,14916.0,47.0
+2016,6,Lafayette,16.0,1.0
+2016,12,Carmel Valley,238.0,1.0
+2016,12,Scotts Valley,10931.0,104.0
+2016,12,El Sobrante,1.0,1.0
+2016,10,Colma,17.0,1.0
+2016,5,Pacifica,5717.0,51.0
+2016,10,Berkeley,8.0,2.0
+2016,8,Scotts Valley,16946.0,120.0
+2016,8,Aptos,285.0,11.0
+2016,11,Pacifica,13040.0,79.0
+2016,9,Los Gatos,45917.0,222.0
+2016,10,Richmond,641.0,1.0
+2016,4,Los Altos,44798.0,324.0
+2016,9,Fremont,47.0,2.0
+2016,10,Hillsborough,56.0,4.0
+2016,10,Ben Lomond,16.0,2.0
+2016,10,Watsonville,161.0,2.0
+2016,8,Auburn,1.0,1.0
+2016,7,Menlo Park,5270.0,44.0
+2016,12,Bonny Doon,1.0,1.0
+2016,1,Menlo Park,1479.0,33.0
+2016,4,Pacifica,4912.0,40.0
+2016,2,Millbrae,12.0,6.0
+2016,4,Lafayette,1.0,1.0
+2016,12,Ben Lomond,53.0,3.0
+2016,7,Belmont,808.0,9.0
+2016,2,Palo Alto,63070.0,306.0
+2016,11,Santa Cruz,26671.0,153.0
+2016,7,Oakland,5295.0,23.0
+2016,7,Redwood City,4109.0,24.0
+2016,8,Los Altos Hills,14855.0,59.0
+2016,3,Foster City,147.0,15.0
+2016,5,Mountain View,3678.0,44.0
+2016,9,Soquel,10356.0,115.0
+2016,4,Carmel Valley,34.0,2.0
+2016,9,San Leandro,4.0,2.0
+2016,4,Saratoga,2979.0,16.0
+2016,10,Moraga,129.0,1.0
+2016,9,Felton,1106.0,10.0
+2016,9,Millbrae,10.0,5.0
+2016,5,Hillsborough,2.0,2.0
+2016,6,Palo Alto,79307.0,437.0
+2016,1,Los Altos Hills,10662.0,41.0
+2016,2,Los Altos,37614.0,226.0
+2016,4,San Bruno,7.0,5.0
+2016,11,La Selva Beach,22.0,2.0
+2016,11,Woodside,2952.0,29.0
+2016,4,Woodside,617.0,12.0
+2016,6,Los Gatos,46755.0,215.0
+2016,6,Portola Valley,6187.0,58.0
+2016,7,San Jose,20.0,2.0
+2016,1,Capitola,4283.0,40.0
+2016,2,Fremont,1.0,1.0
+2016,5,Saratoga,2883.0,20.0
+2016,11,Hillsborough,23.0,6.0
+2016,5,Aptos,313.0,12.0
+2016,5,Burlingame,10.0,6.0
+2016,11,East Palo Alto,4.0,1.0
+2016,4,San Carlos,111.0,5.0
+2016,11,San Francisco,6389.0,76.0
+2016,11,Burlingame,454.0,7.0
+2016,5,The Sea Ranch,1.0,1.0
+2016,12,Pacifica,11992.0,67.0
+2016,10,Alameda,73.0,5.0
+2016,2,Oakland,1768.0,17.0
+2016,11,San Mateo,1242.0,15.0
+2016,5,Los Altos Hills,18306.0,80.0
+2016,12,East Palo Alto,1.0,1.0
+2016,6,Oakland,5269.0,32.0
+2016,2,The Sea Ranch,1.0,1.0
+2016,3,Carmel Valley,18.0,2.0
+2016,2,Belmont,108.0,3.0
+2016,11,Foster City,1078.0,13.0
+2016,11,Campbell,1.0,1.0
+2016,8,Oakland,6386.0,29.0
+2016,5,Daly City,1563.0,6.0
+2016,7,San Leandro,14.0,2.0
+2016,3,Scotts Valley,25383.0,118.0
+2016,10,Portola Valley,8390.0,72.0
+2016,8,San Leandro,9.0,3.0
+2016,7,Fremont,8.0,1.0
+2016,2,Danville,2.0,1.0
+2016,11,Brisbane,7572.0,74.0
+2016,8,Capitola,3868.0,39.0
+2016,1,San Bruno,4.0,1.0
+2016,8,Richmond,115.0,1.0
+2016,1,Carmel Valley,119.0,2.0
+2016,3,Burlingame,71.0,5.0
+2016,10,El Cerrito,2.0,2.0
+2016,9,Carmel Valley,35.0,1.0
+2016,4,Soquel,12253.0,131.0
+2016,6,Fremont,10.0,1.0
+2016,9,Cupertino,1.0,1.0
+2016,1,Boulder Creek,178.0,5.0
+2016,4,Foster City,62.0,13.0
+2016,10,Atherton,664.0,6.0
+2016,2,Hillsborough,1.0,1.0
+2016,8,Redwood City,3534.0,30.0
+2016,1,Berkeley,3.0,2.0
+2015,3,Menlo Park,3.0,1.0
+2015,1,Atherton,2.0,1.0
+2015,1,Brisbane,899.0,6.0
+2015,1,Daly City,48.0,6.0
+2015,1,Foster City,3.0,3.0
+2015,1,Hillsborough,1.0,1.0
+2015,1,Millbrae,13.0,3.0
+2015,1,Mountain View,1.0,1.0
+2015,1,Oakland,1.0,1.0
+2015,1,Pacifica,389.0,6.0
+2015,1,Palo Alto,545.0,17.0
+2015,1,Portola Valley,721.0,10.0
+2015,1,San Bruno,4.0,2.0
+2015,1,San Francisco,14.0,12.0
+2015,1,San Mateo,3.0,2.0
+2015,1,South San Francisco,39.0,2.0
+2015,1,Woodside,2.0,1.0
+2015,2,Alameda,1.0,1.0
+2015,2,Atherton,1.0,1.0
+2015,2,Brisbane,1114.0,14.0
+2015,2,Burlingame,8.0,7.0
+2015,2,Daly City,73.0,5.0
+2015,2,Hillsborough,1.0,1.0
+2015,2,Los Altos,1.0,1.0
+2015,2,Menlo Park,1.0,1.0
+2015,2,Millbrae,14.0,3.0
+2015,2,Oakland,12.0,12.0
+2015,2,Pacifica,104.0,5.0
+2015,2,Palo Alto,310.0,22.0
+2015,2,Portola Valley,484.0,7.0
+2015,2,San Bruno,1.0,1.0
+2015,2,San Francisco,8.0,6.0
+2015,2,San Mateo,3.0,3.0
+2015,2,Scotts Valley,1.0,1.0
+2015,2,South San Francisco,71.0,3.0
+2015,2,Woodside,1.0,1.0
+2015,3,Alameda,1.0,1.0
+2015,3,Aptos,2.0,2.0
+2015,3,Atherton,6.0,2.0
+2015,3,Brisbane,1211.0,21.0
+2015,3,Burlingame,3.0,2.0
+2015,3,Capitola,11.0,11.0
+2015,3,Daly City,66.0,5.0
+2015,3,El Cerrito,2.0,1.0
+2015,3,Felton,4.0,3.0
+2015,3,Foster City,53.0,4.0
+2015,3,Hillsborough,2.0,2.0
+2015,3,Los Altos,1.0,1.0
+2015,3,Los Gatos,71.0,39.0
+2015,3,Millbrae,2.0,2.0
+2015,3,Oakland,3.0,2.0
+2015,3,Pacifica,326.0,8.0
+2015,3,Palo Alto,411.0,37.0
+2015,3,Portola Valley,515.0,6.0
+2015,3,Redwood City,2.0,1.0
+2015,3,San Bruno,1.0,1.0
+2015,3,San Francisco,12.0,5.0
+2015,3,San Mateo,3.0,2.0
+2015,3,Santa Cruz,122.0,73.0
+2015,3,Scotts Valley,44.0,37.0
+2015,3,Soquel,54.0,36.0
+2015,3,South San Francisco,77.0,3.0
+2015,3,Woodside,11.0,2.0
+2015,4,Aptos,2.0,2.0
+2015,4,Belmont,1.0,1.0
+2015,4,Brisbane,988.0,13.0
+2015,4,Burlingame,4.0,4.0
+2015,4,Capitola,21.0,9.0
+2015,4,Daly City,104.0,3.0
+2015,4,El Cerrito,2.0,1.0
+2015,4,Felton,5.0,4.0
+2015,4,Foster City,5.0,3.0
+2015,4,Los Gatos,149.0,43.0
+2015,4,Menlo Park,5.0,3.0
+2015,4,Millbrae,5.0,3.0
+2015,4,Pacifica,282.0,6.0
+2015,4,Palo Alto,301.0,37.0
+2015,4,Portola Valley,611.0,15.0
+2015,4,Redwood City,2.0,2.0
+2015,4,San Bruno,2.0,2.0
+2015,4,San Carlos,1.0,1.0
+2015,4,San Francisco,8.0,7.0
+2015,4,San Mateo,9.0,4.0
+2015,4,Santa Cruz,543.0,73.0
+2015,4,Saratoga,2.0,2.0
+2015,4,Scotts Valley,161.0,29.0
+2015,4,Soquel,691.0,51.0
+2015,4,South San Francisco,32.0,4.0
+2015,4,Woodside,18.0,6.0
+2015,5,Alameda,1.0,1.0
+2015,5,Aptos,2.0,2.0
+2015,5,Atherton,1.0,1.0
+2015,5,Bonny Doon,1.0,1.0
+2015,5,Boulder Creek,9.0,3.0
+2015,5,Brisbane,1146.0,13.0
+2015,5,Burlingame,1.0,1.0
+2015,5,Capitola,179.0,10.0
+2015,5,Daly City,228.0,5.0
+2015,5,East Palo Alto,1.0,1.0
+2015,5,El Cerrito,1.0,1.0
+2015,5,Felton,209.0,8.0
+2015,5,Gualala,1.0,1.0
+2015,5,Half Moon Bay,1.0,1.0
+2015,5,Los Altos Hills,1.0,1.0
+2015,5,Los Gatos,1648.0,98.0
+2015,5,Menlo Park,10.0,3.0
+2015,5,Millbrae,1.0,1.0
+2015,5,Mountain View,3.0,3.0
+2015,5,Pacifica,627.0,6.0
+2015,5,Palo Alto,1307.0,318.0
+2015,5,Portola Valley,976.0,17.0
+2015,5,Redwood City,4.0,3.0
+2015,5,San Bruno,3.0,2.0
+2015,5,San Francisco,9.0,6.0
+2015,5,San Mateo,17.0,7.0
+2015,5,Santa Cruz,1885.0,106.0
+2015,5,Saratoga,7.0,2.0
+2015,5,Scotts Valley,1086.0,51.0
+2015,5,Sonoma,1.0,1.0
+2015,5,Soquel,2637.0,79.0
+2015,5,South San Francisco,33.0,6.0
+2015,5,The Sea Ranch,5.0,4.0
+2015,5,Walnut Creek,1.0,1.0
+2015,5,Woodside,49.0,3.0
+2015,6,Aptos,7.0,4.0
+2015,6,Atherton,9.0,1.0
+2015,6,Boulder Creek,4.0,2.0
+2015,6,Brisbane,806.0,10.0
+2015,6,Burlingame,11.0,8.0
+2015,6,Capitola,465.0,15.0
+2015,6,Daly City,623.0,4.0
+2015,6,Felton,113.0,2.0
+2015,6,Foster City,2.0,2.0
+2015,6,Half Moon Bay,3.0,1.0
+2015,6,Hillsborough,4.0,2.0
+2015,6,Los Altos,5.0,3.0
+2015,6,Los Gatos,3553.0,89.0
+2015,6,Menlo Park,18.0,8.0
+2015,6,Millbrae,3.0,2.0
+2015,6,Mountain View,1.0,1.0
+2015,6,Pacifica,286.0,4.0
+2015,6,Palo Alto,2733.0,150.0
+2015,6,Portola Valley,833.0,13.0
+2015,6,Redwood City,18.0,8.0
+2015,6,San Bruno,4.0,3.0
+2015,6,San Carlos,4.0,1.0
+2015,6,San Francisco,7.0,5.0
+2015,6,San Jose,1.0,1.0
+2015,6,San Mateo,21.0,11.0
+2015,6,Santa Cruz,3749.0,92.0
+2015,6,Saratoga,10.0,3.0
+2015,6,Scotts Valley,2148.0,60.0
+2015,6,Soquel,2102.0,63.0
+2015,6,South San Francisco,13.0,8.0
+2015,6,Watsonville,1.0,1.0
+2015,6,Woodside,7.0,3.0
+2015,7,Alameda,4.0,1.0
+2015,7,Aptos,257.0,9.0
+2015,7,Atherton,5.0,2.0
+2015,7,Belmont,1.0,1.0
+2015,7,Bolinas,1.0,1.0
+2015,7,Boulder Creek,19.0,3.0
+2015,7,Brisbane,971.0,11.0
+2015,7,Burlingame,3.0,3.0
+2015,7,Capitola,1142.0,23.0
+2015,7,Daly City,827.0,3.0
+2015,7,El Cerrito,4.0,2.0
+2015,7,Felton,180.0,6.0
+2015,7,Foster City,4.0,3.0
+2015,7,Hillsborough,1.0,1.0
+2015,7,La Honda,1.0,1.0
+2015,7,Los Altos,113.0,41.0
+2015,7,Los Altos Hills,4.0,2.0
+2015,7,Los Gatos,12208.0,162.0
+2015,7,Menlo Park,64.0,36.0
+2015,7,Millbrae,5.0,1.0
+2015,7,Morgan Hill,10.0,1.0
+2015,7,Mountain View,8.0,7.0
+2015,7,Pacifica,101.0,5.0
+2015,7,Palo Alto,5100.0,228.0
+2015,7,Portola Valley,2069.0,51.0
+2015,7,Redwood City,192.0,20.0
+2015,7,San Bruno,6.0,3.0
+2015,7,San Carlos,6.0,2.0
+2015,7,San Francisco,385.0,17.0
+2015,7,San Mateo,12.0,10.0
+2015,7,Santa Cruz,10104.0,119.0
+2015,7,Saratoga,47.0,10.0
+2015,7,Scotts Valley,9642.0,87.0
+2015,7,Soquel,4815.0,111.0
+2015,7,South San Francisco,17.0,9.0
+2015,7,Sunnyvale,5.0,3.0
+2015,7,The Sea Ranch,1.0,1.0
+2015,7,Tracy,1.0,1.0
+2015,7,Woodside,88.0,8.0
+2015,8,Atherton,11.0,8.0
+2015,8,Brisbane,624.0,9.0
+2015,8,Burlingame,4.0,3.0
+2015,8,Daly City,572.0,4.0
+2015,8,Foster City,28.0,9.0
+2015,8,Half Moon Bay,1.0,1.0
+2015,8,Menlo Park,804.0,16.0
+2015,8,Millbrae,2.0,1.0
+2015,8,Moss Beach,11.0,1.0
+2015,8,Pacifica,5.0,5.0
+2015,8,Portola Valley,2440.0,65.0
+2015,8,Redwood City,661.0,20.0
+2015,8,San Carlos,9.0,3.0
+2015,8,San Francisco,3205.0,12.0
+2015,8,San Mateo,23.0,10.0
+2015,8,South San Francisco,62.0,14.0
+2015,8,Woodside,88.0,9.0
+2015,8,Alameda,2.0,1.0
+2015,8,Aptos,200.0,9.0
+2015,8,Boulder Creek,138.0,7.0
+2015,8,Capitola,928.0,22.0
+2015,8,El Cerrito,1.0,1.0
+2015,8,Felton,227.0,6.0
+2015,8,Kensington,1.0,1.0
+2015,8,La Honda,9.0,1.0
+2015,8,Los Altos,327.0,89.0
+2015,8,Los Altos Hills,593.0,6.0
+2015,8,Los Gatos,15562.0,173.0
+2015,8,Morgan Hill,23.0,1.0
+2015,8,Mountain View,21.0,7.0
+2015,8,Newark,2.0,1.0
+2015,8,Palo Alto,8770.0,296.0
+2015,8,San Jose,3.0,3.0
+2015,8,Santa Cruz,12967.0,135.0
+2015,8,Saratoga,57.0,20.0
+2015,8,Scotts Valley,9778.0,98.0
+2015,8,Soquel,4229.0,103.0
+2015,8,Sunnyvale,1.0,1.0
+2015,8,The Sea Ranch,1.0,1.0
+2015,8,Walnut Creek,1.0,1.0
+2015,9,Atherton,2.0,2.0
+2015,9,Brisbane,584.0,14.0
+2015,9,Burlingame,13.0,8.0
+2015,9,Daly City,433.0,5.0
+2015,9,Foster city,5.0,4.0
+2015,9,Half Moon Bay,59.0,3.0
+2015,9,Menlo Park,196.0,24.0
+2015,9,Millbrae,8.0,6.0
+2015,9,Pacifica,159.0,12.0
+2015,9,Portola Valley,11974.0,30.0
+2015,9,Redwood City,544.0,16.0
+2015,9,San Bruno,2.0,2.0
+2015,9,San Carlos,4.0,2.0
+2015,9,San Francisco,1764.0,15.0
+2015,9,San Mateo,16.0,6.0
+2015,9,South San Francisco,24.0,10.0
+2015,9,Woodside,52.0,10.0
+2015,9,Aptos,425.0,9.0
+2015,9,Berkeley,1.0,1.0
+2015,9,Boulder Creek,65.0,9.0
+2015,9,Capitola,1358.0,28.0
+2015,9,Carmel Valley,1.0,1.0
+2015,9,El Cerrito,3.0,1.0
+2015,9,Felton,1700.0,5.0
+2015,9,Los Altos,1650.0,72.0
+2015,9,Los Altos Hills,29.0,4.0
+2015,9,Los Gatos,40811.0,188.0
+2015,9,Milpitas,1.0,1.0
+2015,9,Morgan Hill,58.0,1.0
+2015,9,Mountain View,130.0,9.0
+2015,9,Oakland,2.0,2.0
+2015,9,Palo Alto,9896.0,207.0
+2015,9,San Jose,1.0,1.0
+2015,9,Santa Cruz,25193.0,137.0
+2015,9,Saratoga,236.0,13.0
+2015,9,Scotts Valley,20621.0,101.0
+2015,9,Soquel,13484.0,108.0
+2015,9,Sunnyvale,1.0,1.0
+2015,9,Walnut Creek,4.0,2.0
+2015,10,Atherton,8.0,4.0
+2015,10,Belmont,1.0,1.0
+2015,10,Brisbane,2463.0,43.0
+2015,10,Burlingame,4.0,4.0
+2015,10,Daly City,868.0,6.0
+2015,10,Foster City,18.0,2.0
+2015,10,Half Moon Bay,2.0,2.0
+2015,10,Menlo Park,364.0,22.0
+2015,10,Millbrae,9.0,2.0
+2015,10,Pacifica,710.0,45.0
+2015,10,Portola Valley,25259.0,53.0
+2015,10,Redwood City,863.0,18.0
+2015,10,San Bruno,3.0,1.0
+2015,10,San Carlos,6.0,2.0
+2015,10,San Francisco,52.0,16.0
+2015,10,San Mateo,535.0,5.0
+2015,10,South San Francisco,17.0,9.0
+2015,10,Woodside,75.0,9.0
+2015,10,Alameda,1.0,1.0
+2015,10,Aptos,334.0,10.0
+2015,10,Ben Lomond,17.0,2.0
+2015,10,Boulder Creek,34.0,9.0
+2015,10,Capitola,4948.0,52.0
+2015,10,Carmel Valley,5.0,1.0
+2015,10,El Cerrito,6.0,1.0
+2015,10,Felton,2020.0,5.0
+2015,10,Kensington,7.0,3.0
+2015,10,La Selva Beach,186.0,1.0
+2015,10,Los Altos,20790.0,163.0
+2015,10,Los Altos Hills,2746.0,8.0
+2015,10,Los Gatos,55854.0,233.0
+2015,10,Mountain View,1782.0,16.0
+2015,10,New Almaden,1.0,1.0
+2015,10,Newark,1.0,1.0
+2015,10,Palo Alto,16544.0,204.0
+2015,10,San Jose,5.0,1.0
+2015,10,Santa Cruz,27410.0,203.0
+2015,10,Saratoga,1519.0,36.0
+2015,10,Scotts Valley,38797.0,130.0
+2015,10,Soquel,14721.0,124.0
+2015,10,Sunnyvale,7.0,1.0
+2015,10,The Sea Ranch,2.0,1.0
+2015,10,Union City,1.0,1.0
+2015,10,Walnut Creek,1.0,1.0
+2015,10,Watsonville,4.0,2.0
+2015,11,Atherton,1.0,1.0
+2015,11,Belmont,2.0,1.0
+2015,11,Brisbane,5766.0,51.0
+2015,11,Burlingame,6.0,6.0
+2015,11,Daly City,593.0,3.0
+2015,11,Foster City,1.0,1.0
+2015,11,Menlo Park,1746.0,20.0
+2015,11,Millbrae,19.0,5.0
+2015,11,Pacifica,1651.0,28.0
+2015,11,Portola Valley,18437.0,58.0
+2015,11,Redwood City,667.0,19.0
+2015,11,San Bruno,5.0,4.0
+2015,11,San Carlos,2.0,2.0
+2015,11,San Francisco,37.0,13.0
+2015,11,San Mateo,441.0,3.0
+2015,11,South San Francisco,20.0,8.0
+2015,11,Woodside,2432.0,6.0
+2015,11,Aptos,445.0,8.0
+2015,11,Ben Lomond,12.0,3.0
+2015,11,Boulder Creek,118.0,8.0
+2015,11,Capitola,4955.0,45.0
+2015,11,Carmel Valley,2.0,1.0
+2015,11,El Cerrito,3.0,1.0
+2015,11,Felton,1943.0,9.0
+2015,11,Fremont,1.0,1.0
+2015,11,Kensington,5.0,1.0
+2015,11,La Selva Beach,60.0,1.0
+2015,11,Los Altos,24576.0,150.0
+2015,11,Los Altos Hills,5997.0,16.0
+2015,11,Los Gatos,44805.0,214.0
+2015,11,Mountain View,2372.0,15.0
+2015,11,Oakland,2.0,2.0
+2015,11,Palo Alto,32663.0,206.0
+2015,11,Paradise,1.0,1.0
+2015,11,San Leandro,1.0,1.0
+2015,11,San Ramon,1.0,1.0
+2015,11,Santa Cruz,22351.0,162.0
+2015,11,Saratoga,2022.0,21.0
+2015,11,Scotts Valley,23890.0,106.0
+2015,11,Soquel,12914.0,127.0
+2015,11,Sunnyvale,25.0,1.0
+2015,11,Watsonville,1.0,1.0
+2015,12,Mountain View,3079.0,22.0
+2015,12,Danville,1.0,1.0
+2015,12,Moraga,1.0,1.0
+2015,12,Boulder Creek,182.0,5.0
+2015,12,Belmont,12.0,3.0
+2015,12,Redwood City,850.0,11.0
+2015,12,Sunnyvale,10.0,4.0
+2015,12,East Palo Alto,15.0,1.0
+2015,12,Pacifica,1390.0,39.0
+2015,12,Woodside,946.0,6.0
+2015,12,Brisbane,3753.0,46.0
+2015,12,Ben Lomond,16.0,1.0
+2015,12,San Francisco,496.0,17.0
+2015,12,Aptos,301.0,9.0
+2015,12,Santa Cruz,19285.0,157.0
+2015,12,Los Altos,21565.0,165.0
+2015,12,The Sea Ranch,2.0,1.0
+2015,12,Piedmont,23.0,1.0
+2015,12,San Bruno,1.0,1.0
+2015,12,Santa Clara,33.0,1.0
+2015,12,Watsonville,5.0,1.0
+2015,12,Los Altos Hills,4238.0,15.0
+2015,12,San Mateo,195.0,8.0
+2015,12,Foster City,12.0,2.0
+2015,12,Felton,1360.0,9.0
+2015,12,San Leandro,1.0,1.0
+2015,12,Los Gatos,39189.0,212.0
+2015,12,San Carlos,8.0,3.0
+2015,12,Carmel Valley,13.0,3.0
+2015,12,Portola Valley,11875.0,56.0
+2015,12,Menlo Park,914.0,20.0
+2015,12,Soquel,11154.0,132.0
+2015,12,Fremont,1.0,1.0
+2015,12,Capitola,3486.0,41.0
+2015,12,Oakland,32.0,9.0
+2015,12,South San Francisco,92.0,10.0
+2015,12,Scotts Valley,20214.0,104.0
+2015,12,Palo Alto,29329.0,223.0
+2015,12,Burlingame,12.0,9.0
+2015,12,Daly City,1034.0,3.0
+2015,12,La Selva Beach,22.0,1.0
+2015,12,Saratoga,1387.0,16.0
+2015,12,Millbrae,6.0,2.0
+2014,1,Atherton,7.0,2.0
+2014,10,Alameda,2.0,2.0
+2014,9,Woodside,3.0,3.0
+2014,9,South San Francisco,15.0,10.0
+2014,9,San Mateo,3.0,3.0
+2014,9,San Francisco,7.0,7.0
+2014,9,San Bruno,12.0,4.0
+2014,9,Redwood City,1.0,1.0
+2014,9,Portola Valley,68.0,9.0
+2014,9,Palo Alto,39.0,15.0
+2014,9,Pacifica,63.0,8.0
+2014,12,Woodside,1.0,1.0
+2014,9,Oakland,2.0,1.0
+2014,11,Portola Valley,227.0,9.0
+2014,9,Novato,1.0,1.0
+2014,11,Richmond,1.0,1.0
+2014,9,Moss Beach,1.0,1.0
+2014,9,Millbrae,4.0,4.0
+2014,9,Menlo Park,4.0,2.0
+2014,11,Palo Alto,49.0,16.0
+2014,9,Los Altos,3.0,1.0
+2014,9,Foster City,15.0,5.0
+2014,9,East Palo Alto,1.0,1.0
+2014,9,Daly City,73.0,6.0
+2014,9,Burlingame,2.0,2.0
+2014,9,Brisbane,1324.0,19.0
+2014,9,Atherton,1.0,1.0
+2014,8,Woodside,10.0,6.0
+2014,8,South San Francisco,23.0,12.0
+2014,8,San Mateo,3.0,3.0
+2014,8,San Francisco,9.0,6.0
+2014,8,San Carlos,1.0,1.0
+2014,8,San Bruno,3.0,3.0
+2014,11,Pacifica,170.0,7.0
+2014,8,Redwood City,1.0,1.0
+2014,8,Portola Valley,54.0,12.0
+2014,8,Palo Alto,59.0,15.0
+2014,8,Pacifica,80.0,2.0
+2014,8,Oakland,2.0,2.0
+2014,8,Moraga,2.0,1.0
+2014,8,Menlo Park,5.0,3.0
+2014,8,Hillsborough,2.0,2.0
+2014,8,Foster City,10.0,7.0
+2014,8,Daly City,101.0,6.0
+2014,8,Brisbane,453.0,17.0
+2014,8,Belmont,2.0,1.0
+2014,8,Atherton,3.0,2.0
+2014,8,Alameda,1.0,1.0
+2014,7,Woodside,5.0,2.0
+2014,7,St. Helena,1.0,1.0
+2014,7,South San Francisco,39.0,24.0
+2014,7,San Rafael,1.0,1.0
+2014,7,San Mateo,4.0,4.0
+2014,7,San Francisco,4.0,4.0
+2014,11,Millbrae,3.0,2.0
+2014,7,San Carlos,1.0,1.0
+2014,7,San Bruno,8.0,7.0
+2014,7,Redwood City,4.0,4.0
+2014,7,Portola Valley,42.0,8.0
+2014,7,Palo Alto,23.0,5.0
+2014,7,Pacifica,78.0,2.0
+2014,7,Oakland,1.0,1.0
+2014,7,Moraga,1.0,1.0
+2014,7,Millbrae,4.0,1.0
+2014,7,Menlo Park,8.0,4.0
+2014,7,Foster City,8.0,6.0
+2014,7,Daly City,137.0,5.0
+2014,7,Brisbane,269.0,40.0
+2014,7,Atherton,7.0,1.0
+2014,6,Woodside,13.0,2.0
+2014,6,South San Francisco,15.0,13.0
+2014,6,San Mateo,8.0,6.0
+2014,6,San Francisco,1.0,1.0
+2014,6,San Bruno,8.0,6.0
+2014,6,Portola Valley,29.0,11.0
+2014,6,Palo Alto,45.0,3.0
+2014,6,Pacifica,45.0,2.0
+2014,6,Oakland,1.0,1.0
+2014,6,Millbrae,9.0,2.0
+2014,6,Menlo Park,2.0,1.0
+2014,6,Hillsborough,1.0,1.0
+2014,11,Menlo Park,17.0,4.0
+2014,6,Foster City,14.0,5.0
+2014,6,Daly City,136.0,4.0
+2014,6,Burlingame,2.0,2.0
+2014,6,Brisbane,114.0,12.0
+2014,6,Atherton,6.0,1.0
+2014,5,Woodside,3.0,2.0
+2014,5,South San Francisco,6.0,5.0
+2014,5,San Rafael,1.0,1.0
+2014,5,San Mateo,37.0,7.0
+2014,5,San Francisco,8.0,4.0
+2014,5,Portola Valley,255.0,12.0
+2014,5,Palo Alto,60.0,11.0
+2014,5,Pacifica,63.0,2.0
+2014,5,Millbrae,3.0,1.0
+2014,5,Foster City,10.0,1.0
+2014,5,Daly City,124.0,5.0
+2014,5,Burlingame,5.0,5.0
+2014,5,Brisbane,496.0,12.0
+2014,5,Atherton,5.0,1.0
+2014,4,Woodside,40.0,1.0
+2014,11,El Cerrito,1.0,1.0
+2014,4,South San Francisco,2.0,2.0
+2014,4,San Mateo,2.0,2.0
+2014,4,San Francisco,17.0,4.0
+2014,4,San Bruno,2.0,2.0
+2014,4,Redwood City,1.0,1.0
+2014,4,Portola Valley,37.0,19.0
+2014,4,Palo Alto,14.0,5.0
+2014,4,Pacifica,41.0,5.0
+2014,4,Millbrae,8.0,2.0
+2014,4,Menlo Park,1.0,1.0
+2014,11,Daly City,63.0,6.0
+2014,4,Fremont,1.0,1.0
+2014,4,Foster City,9.0,2.0
+2014,4,Daly City,88.0,3.0
+2014,4,Burlingame,1.0,1.0
+2014,4,Brisbane,892.0,11.0
+2014,4,Atherton,8.0,1.0
+2014,3,Woodside,2.0,1.0
+2014,3,South San Francisco,3.0,2.0
+2014,3,San Mateo,6.0,5.0
+2014,3,San Francisco,49.0,12.0
+2014,3,San Bruno,3.0,2.0
+2014,3,Redwood City,2.0,2.0
+2014,3,Portola Valley,27.0,4.0
+2014,3,Pacifica,9.0,3.0
+2014,3,Millbrae,13.0,2.0
+2014,3,Menlo Park,2.0,1.0
+2014,3,Hillsborough,1.0,1.0
+2014,3,Half Moon Bay,1.0,1.0
+2014,3,Fremont,1.0,1.0
+2014,3,Foster City,3.0,2.0
+2014,3,Daly City,172.0,2.0
+2014,3,Burlingame,1.0,1.0
+2014,3,Brisbane,799.0,15.0
+2014,3,Belvedere-Tiburon,1.0,1.0
+2014,3,Atherton,1.0,1.0
+2014,2,South San Francisco,3.0,3.0
+2014,2,San Ramon,1.0,1.0
+2014,2,San Mateo,1.0,1.0
+2014,2,San Francisco,9.0,6.0
+2014,2,San Carlos,1.0,1.0
+2014,2,San Bruno,1.0,1.0
+2014,2,Redwood City,2.0,1.0
+2014,11,Burlingame,2.0,1.0
+2014,2,Portola Valley,40.0,5.0
+2014,2,Palo Alto,2.0,1.0
+2014,2,Pacifica,21.0,2.0
+2014,2,Orinda,1.0,1.0
+2014,2,Oakland,2.0,1.0
+2014,2,Millbrae,3.0,3.0
+2014,2,Mill Valley,1.0,1.0
+2014,2,Hayward,1.0,1.0
+2014,2,Foster City,3.0,2.0
+2014,2,El Cerrito,2.0,1.0
+2014,2,Daly City,175.0,3.0
+2014,2,Corte Madera,1.0,1.0
+2014,2,Burlingame,2.0,2.0
+2014,2,Brisbane,701.0,11.0
+2014,11,Brisbane,1153.0,14.0
+2014,11,Belmont,1.0,1.0
+2014,11,Atherton,1.0,1.0
+2014,10,South San Francisco,5.0,3.0
+2014,11,San Bruno,5.0,2.0
+2014,11,San Carlos,2.0,1.0
+2014,11,San Francisco,10.0,8.0
+2014,11,South San Francisco,9.0,5.0
+2014,11,Woodside,8.0,2.0
+2014,12,Alameda,2.0,2.0
+2014,12,Atherton,1.0,1.0
+2014,12,Brisbane,764.0,15.0
+2014,12,Burlingame,5.0,5.0
+2014,12,Daly City,111.0,7.0
+2014,12,El Cerrito,1.0,1.0
+2014,12,Foster City,12.0,2.0
+2014,12,Hillsborough,4.0,3.0
+2014,12,Menlo Park,6.0,2.0
+2014,12,Mill Valley,1.0,1.0
+2014,12,Millbrae,14.0,4.0
+2014,12,Oakland,4.0,2.0
+2014,12,Pacifica,282.0,6.0
+2014,12,Palo Alto,219.0,18.0
+2014,12,Portola Valley,535.0,28.0
+2014,12,Redwood City,4.0,2.0
+2014,12,Richmond,113.0,1.0
+2014,12,San Bruno,8.0,5.0
+2014,12,San Carlos,1.0,1.0
+2014,12,San Francisco,86.0,11.0
+2014,12,San Mateo,2.0,2.0
+2014,12,San Ramon,2.0,1.0
+2014,12,South San Francisco,46.0,5.0
+2014,12,Tiburon,2.0,1.0
+2014,10,San Mateo,1.0,1.0
+2014,10,San Francisco,20.0,7.0
+2014,10,San Carlos,4.0,2.0
+2014,10,San Bruno,2.0,2.0
+2014,10,Redwood City,1.0,1.0
+2014,10,Portola Valley,54.0,7.0
+2014,10,Palo Alto,68.0,24.0
+2014,10,Pacifica,151.0,3.0
+2014,10,Oakland,7.0,2.0
+2014,10,Millbrae,12.0,5.0
+2014,10,Mill valley,2.0,1.0
+2014,10,Menlo Park,10.0,4.0
+2014,10,Foster City,6.0,4.0
+2014,10,Daly City,124.0,7.0
+2014,10,Burlingame,5.0,5.0
+2014,10,Brisbane,1486.0,34.0
+2014,10,Atherton,5.0,1.0
+2014,2,Belvedere-Tiburon,5.0,3.0
+2014,2,Atherton,8.0,3.0
+2014,2,Alameda,2.0,2.0
+2014,1,Woodside,4.0,1.0
+2014,1,South San Francisco,2.0,2.0
+2014,1,San Mateo,4.0,3.0
+2014,1,San Francisco,9.0,4.0
+2014,1,San Bruno,2.0,2.0
+2014,1,Portola Valley,8.0,4.0
+2014,1,Palo Alto,2.0,2.0
+2014,1,Pacifica,12.0,3.0
+2014,1,Millbrae,20.0,7.0
+2014,1,Menlo Park,2.0,1.0
+2014,1,Foster City,2.0,1.0
+2014,1,Daly City,29.0,3.0
+2014,1,Burlingame,8.0,6.0
+2014,1,Brisbane,817.0,10.0
+2014,1,Berkeley,1.0,1.0
+2013,12,Burlingame,8.0,2.0
+2013,10,Burlingame,2.0,1.0
+2013,10,Brisbane,380.0,5.0
+2013,10,Atherton,5.0,1.0
+2013,10,Alameda,2.0,1.0
+2013,8,Portola Valley,19.0,6.0
+2013,9,Woodside,2.0,2.0
+2013,9,South San Francisco,30.0,6.0
+2013,9,San Mateo,10.0,3.0
+2013,9,San Francisco,13.0,10.0
+2013,8,Redwood City,4.0,3.0
+2013,8,San Bruno,3.0,3.0
+2013,8,San Francisco,33.0,4.0
+2013,8,San Mateo,17.0,4.0
+2013,8,San Rafael,2.0,1.0
+2013,8,South San Francisco,12.0,5.0
+2013,8,Woodside,1.0,1.0
+2013,9,Alameda,1.0,1.0
+2013,9,Atherton,2.0,1.0
+2013,9,Brisbane,413.0,14.0
+2013,9,Burlingame,3.0,1.0
+2013,9,Daly City,137.0,3.0
+2013,9,Foster City,36.0,2.0
+2013,9,Menlo Park,2.0,2.0
+2013,9,Millbrae,4.0,3.0
+2013,9,Oakland,1.0,1.0
+2013,9,Pacifica,37.0,3.0
+2013,9,Palo Alto,10.0,3.0
+2013,9,Portola Valley,27.0,7.0
+2013,9,Redwood City,3.0,1.0
+2013,9,San Bruno,4.0,3.0
+2013,12,Woodside,3.0,1.0
+2013,12,South San Francisco,5.0,4.0
+2013,12,San Ramon,1.0,1.0
+2013,12,San Mateo,2.0,1.0
+2013,12,San Leandro,1.0,1.0
+2013,12,San Francisco,7.0,4.0
+2013,12,San Bruno,4.0,3.0
+2013,12,Portola Valley,6.0,2.0
+2013,12,Pacifica,8.0,3.0
+2013,12,Millbrae,8.0,3.0
+2013,12,Los Gatos,2.0,1.0
+2013,12,Los Altos,1.0,1.0
+2013,12,Foster City,18.0,3.0
+2013,12,Daly City,21.0,2.0
+2013,12,Brisbane,525.0,6.0
+2013,12,Atherton,3.0,1.0
+2013,11,Woodside,4.0,4.0
+2013,11,Tiburon,1.0,1.0
+2013,11,South San Francisco,3.0,3.0
+2013,11,San Mateo,4.0,3.0
+2013,11,San Francisco,20.0,4.0
+2013,11,Redwood City,2.0,1.0
+2013,11,Portola Valley,6.0,2.0
+2013,11,Pacifica,56.0,3.0
+2013,11,Oakland,1.0,1.0
+2013,11,Millbrae,7.0,1.0
+2013,11,Menlo Park,1.0,1.0
+2013,11,Fremont,2.0,1.0
+2013,11,Foster City,18.0,3.0
+2013,11,El Cerrito,2.0,1.0
+2013,11,Daly City,72.0,2.0
+2013,11,Burlingame,1.0,1.0
+2013,11,Brisbane,468.0,6.0
+2013,8,Palo Alto,27.0,3.0
+2013,8,Pacifica,48.0,3.0
+2013,8,Oakland,2.0,1.0
+2013,8,Menlo Park,12.0,1.0
+2013,8,Lafayette,1.0,1.0
+2013,8,La Honda,1.0,1.0
+2013,8,Hillsborough,1.0,1.0
+2013,8,Foster City,56.0,6.0
+2013,8,Daly City,144.0,4.0
+2013,8,Brisbane,517.0,3.0
+2013,8,Belmont,1.0,1.0
+2013,8,Alameda,1.0,1.0
+2013,7,Woodside,13.0,4.0
+2013,7,South San Franciscio,8.0,4.0
+2013,7,San Mateo,5.0,5.0
+2013,7,San Jose,1.0,1.0
+2013,7,San Francisco,29.0,8.0
+2013,7,San Bruno,13.0,3.0
+2013,7,Portola Valley,1.0,1.0
+2013,7,Palo Alto,55.0,3.0
+2013,7,Pacifica,32.0,2.0
+2013,7,Millbrae,9.0,3.0
+2013,7,Menlo Park,17.0,1.0
+2013,7,Foster City,11.0,2.0
+2013,7,Daly City,69.0,2.0
+2013,7,Burlingame,15.0,11.0
+2013,7,Brisbane,642.0,8.0
+2013,6,Woodside,2.0,2.0
+2013,6,Walnut Creek,3.0,1.0
+2013,6,Sunnyvale,2.0,2.0
+2013,6,South San Franciscio,12.0,10.0
+2013,6,San Mateo,76.0,5.0
+2013,6,San Francisco,12.0,9.0
+2013,6,San Bruno,4.0,2.0
+2013,6,Portola Valley,11.0,8.0
+2013,6,Palo Alto,98.0,4.0
+2013,6,Pacifica,47.0,4.0
+2013,6,Oakland,2.0,1.0
+2013,6,Mountain View,2.0,1.0
+2013,6,Millbrae,1.0,1.0
+2013,6,Menlo Park,9.0,2.0
+2013,6,Los Altos,1.0,1.0
+2013,6,Daly City,201.0,4.0
+2013,6,Burlingame,3.0,2.0
+2013,6,Brisbane,984.0,20.0
+2013,6,Atherton,3.0,1.0
+2013,6,Alameda,6.0,5.0
+2013,5,Woodside,4.0,2.0
+2013,5,South San Franciscio,11.0,6.0
+2013,5,San Mateo,22.0,2.0
+2013,5,San Francisco,19.0,4.0
+2013,5,Portola Valley,3.0,3.0
+2013,5,Palo Alto,71.0,3.0
+2013,5,Pacifica,19.0,2.0
+2013,5,Orinda,2.0,1.0
+2013,5,Oakland,4.0,1.0
+2013,5,Millbrae,1.0,1.0
+2013,5,Los Altos,1.0,1.0
+2013,5,Foster City,4.0,1.0
+2013,5,Daly City,65.0,2.0
+2013,5,Brisbane,521.0,26.0
+2013,5,Atherton,2.0,1.0
+2013,4,Woodside,10.0,2.0
+2013,4,San Mateo,2.0,2.0
+2013,4,San Francisco,12.0,7.0
+2013,4,San Bruno,1.0,1.0
+2013,4,Redwood City,53.0,3.0
+2013,4,Portola Valley,6.0,3.0
+2013,4,Palo Alto,3.0,2.0
+2013,4,Pacifica,11.0,1.0
+2013,4,Milpitas,1.0,1.0
+2013,4,Menlo Park,3.0,3.0
+2013,4,Los Altos,1.0,1.0
+2013,4,Daly City,92.0,2.0
+2013,4,Burlingame,3.0,2.0
+2013,4,Brisbane,333.0,7.0
+2013,4,Atherton,2.0,1.0
+2013,3,Woodside,14.0,2.0
+2013,3,South San Franciscio,5.0,3.0
+2013,3,San Francisco,148.0,7.0
+2013,3,San Bruno,1.0,1.0
+2013,3,Redwood City,89.0,3.0
+2013,11,Atherton,8.0,2.0
+2013,3,Portola Valley,2.0,2.0
+2013,3,Palo Alto,2.0,2.0
+2013,3,Pacifica,5.0,2.0
+2013,3,Millbrae,2.0,1.0
+2013,3,Menlo Park,3.0,1.0
+2013,3,Los Altos Hills,10.0,1.0
+2013,3,Foster City,94.0,1.0
+2013,3,Daly City,133.0,3.0
+2013,3,Burlingame,9.0,5.0
+2013,3,Brisbane,276.0,5.0
+2013,3,Bonny Doon,1.0,1.0
+2013,3,Atherton,4.0,2.0
+2013,3,Alameda,1.0,1.0
+2013,2,Woodside,1.0,1.0
+2013,2,South San Franciscio,3.0,3.0
+2013,2,San Francisco,15.0,7.0
+2013,2,San Bruno,2.0,2.0
+2013,2,Portola Valley,15.0,1.0
+2013,2,Palo Alto,6.0,1.0
+2013,2,Pacifica,1.0,1.0
+2013,2,Orinda,5.0,1.0
+2013,2,Oakland,1.0,1.0
+2013,2,Millbrae,1.0,1.0
+2013,2,Menlo Park,4.0,2.0
+2013,2,Foster City,2.0,1.0
+2013,2,Daly City,77.0,2.0
+2013,2,Brisbane,242.0,4.0
+2013,2,Atherton,4.0,1.0
+2013,1,Woodside,2.0,2.0
+2013,1,South San Franciscio,3.0,2.0
+2013,1,San Jose,1.0,1.0
+2013,1,San Francisco,48.0,5.0
+2013,1,San Bruno,1.0,1.0
+2013,1,Redwood City,1.0,1.0
+2013,1,Portola Valley,9.0,2.0
+2013,1,Palo Alto,2.0,1.0
+2013,1,Pacifica,4.0,2.0
+2013,10,South San Francisco,1.0,1.0
+2013,1,Oakland,6.0,1.0
+2013,1,Moraga,1.0,1.0
+2013,10,San Mateo,1.0,1.0
+2013,1,Millbrae,2.0,2.0
+2013,1,Menlo Park,6.0,3.0
+2013,1,Foster City,1.0,1.0
+2013,1,Daly City,149.0,3.0
+2013,1,Brisbane,23.0,5.0
+2013,1,Atherton,8.0,2.0
+2013,10,San Francisco,7.0,7.0
+2013,10,San Bruno,1.0,1.0
+2013,10,Portola Valley,47.0,7.0
+2013,10,Palo Alto,2.0,1.0
+2013,10,Pacifica,70.0,4.0
+2013,10,Millbrae,2.0,2.0
+2013,10,Menlo Park,1.0,1.0
+2013,10,Fremont,1.0,1.0
+2013,10,Foster City,29.0,3.0
+2013,10,Daly City,132.0,3.0
+2012,11,Daly City,126.0,3.0
+2012,11,Colma,1.0,1.0
+2012,12,Pacifica,2.0,2.0
+2012,11,Burlingame,5.0,4.0
+2012,11,Brisbane,37.0,9.0
+2012,11,Berkeley,5.0,2.0
+2012,11,Belmont,1.0,1.0
+2012,11,Atherton,2.0,1.0
+2012,11,Alameda,5.0,3.0
+2012,10,Woodside,2.0,1.0
+2012,10,The Sea Ranch,1.0,1.0
+2012,10,South San Franciscio,7.0,5.0
+2012,10,San Mateo,3.0,1.0
+2012,10,San Francisco,71.0,11.0
+2012,10,San Bruno,5.0,3.0
+2012,10,Redwood City,1.0,1.0
+2012,10,Portola Valley,25.0,3.0
+2012,10,Palo Alto,2.0,1.0
+2012,10,Pacifica,47.0,7.0
+2012,10,Oakland,13.0,1.0
+2012,10,Mountain View,2.0,1.0
+2012,10,Millbrae,1.0,1.0
+2012,10,Menlo Park,4.0,1.0
+2012,10,Foster City,3.0,3.0
+2012,10,Daly City,231.0,3.0
+2012,10,Burlingame,7.0,5.0
+2012,10,Brisbane,455.0,26.0
+2012,10,Atherton,3.0,2.0
+2012,9,South San Franciscio,2.0,1.0
+2012,9,Scotts Valley,1.0,1.0
+2012,9,San Mateo,5.0,1.0
+2012,9,San Francisco,27.0,6.0
+2012,9,San Bruno,6.0,4.0
+2012,9,Redwood City,1.0,1.0
+2012,9,Portola Valley,13.0,2.0
+2012,9,Pacifica,54.0,2.0
+2012,9,Oakland,3.0,2.0
+2012,9,Mountain View,2.0,1.0
+2012,9,Millbrae,1.0,1.0
+2012,9,Menlo Park,3.0,2.0
+2012,9,Danville,1.0,1.0
+2012,9,Daly City,93.0,2.0
+2012,9,Corte Madera,1.0,1.0
+2012,9,Brisbane,235.0,9.0
+2012,8,Woodside,2.0,1.0
+2012,8,South San Franciscio,1.0,1.0
+2012,8,San Francisco,11.0,6.0
+2012,12,Palo Alto,1.0,1.0
+2012,8,San Bruno,21.0,5.0
+2012,8,Portola Valley,3.0,1.0
+2012,8,Palo Alto,14.0,1.0
+2012,8,Pacifica,71.0,2.0
+2012,8,Oakland,1.0,1.0
+2012,8,Millbrae,2.0,2.0
+2012,8,Menlo Park,3.0,1.0
+2012,8,Lafayette,2.0,2.0
+2012,8,Hillsborough,3.0,1.0
+2012,8,Foster City,1.0,1.0
+2012,8,Felton,8.0,1.0
+2012,12,Woodside,1.0,1.0
+2012,8,Daly City,72.0,3.0
+2012,8,Burlingame,5.0,3.0
+2012,8,Brisbane,132.0,12.0
+2012,7,South San Franciscio,5.0,3.0
+2012,7,San Mateo,2.0,2.0
+2012,7,San Francisco,75.0,4.0
+2012,7,San Bruno,3.0,2.0
+2012,7,Redwood City,2.0,1.0
+2012,7,Portola Valley,1.0,1.0
+2012,7,Palo Alto,32.0,2.0
+2012,7,Pacifica,82.0,3.0
+2012,7,Oakland,1.0,1.0
+2012,7,Millbrae,2.0,2.0
+2012,7,Hillsborough,1.0,1.0
+2012,7,Half Moon Bay,3.0,1.0
+2012,12,Portola Valley,8.0,4.0
+2012,7,Foster City,2.0,2.0
+2012,7,Felton,4.0,1.0
+2012,7,Fairfax,1.0,1.0
+2012,7,Daly City,97.0,4.0
+2012,7,Burlingame,1.0,1.0
+2012,7,Brisbane,299.0,18.0
+2012,7,Atherton,2.0,1.0
+2012,7,Aromas,1.0,1.0
+2012,7,Alameda,1.0,1.0
+2012,6,South San Franciscio,8.0,5.0
+2012,6,San Mateo,4.0,3.0
+2012,6,San Francisco,60.0,6.0
+2012,6,San Bruno,17.0,2.0
+2012,6,Redwood City,11.0,2.0
+2012,6,Portola Valley,17.0,8.0
+2012,6,Palo Alto,5.0,4.0
+2012,6,Pacifica,58.0,3.0
+2012,6,Oakland,3.0,2.0
+2012,6,Millbrae,2.0,2.0
+2012,6,Menlo Park,2.0,1.0
+2012,6,Hillsborough,5.0,1.0
+2012,6,Half Moon Bay,4.0,2.0
+2012,6,Foster City,7.0,4.0
+2012,6,Daly City,130.0,4.0
+2012,6,Burlingame,1.0,1.0
+2012,6,Brisbane,341.0,23.0
+2012,12,San Bruno,2.0,2.0
+2012,6,Bolinas,1.0,1.0
+2012,6,Atherton,2.0,2.0
+2012,5,South San Franciscio,3.0,3.0
+2012,5,San Mateo,2.0,2.0
+2012,5,San Jose,1.0,1.0
+2012,5,San Francisco,14.0,5.0
+2012,5,San Bruno,5.0,4.0
+2012,5,Portola Valley,21.0,4.0
+2012,5,Pacifica,62.0,1.0
+2012,5,Orinda,2.0,1.0
+2012,5,Oakland,2.0,1.0
+2012,5,Mountain View,4.0,1.0
+2012,5,Millbrae,3.0,2.0
+2012,5,Daly City,235.0,2.0
+2012,5,Burlingame,14.0,3.0
+2012,5,Brisbane,524.0,12.0
+2012,5,Atherton,6.0,1.0
+2012,5,Albany,6.0,4.0
+2012,5,Alameda,1.0,1.0
+2012,4,Woodside,1.0,1.0
+2012,4,South San Franciscio,36.0,18.0
+2012,4,San Mateo,6.0,2.0
+2012,4,San Francisco,32.0,11.0
+2012,4,San Bruno,1.0,1.0
+2012,4,Portola Valley,22.0,2.0
+2012,4,Palo Alto,9.0,2.0
+2012,4,Pacifica,72.0,2.0
+2012,4,Orinda,1.0,1.0
+2012,4,Oakland,2.0,1.0
+2012,4,Hillsborough,1.0,1.0
+2012,4,Foster City,3.0,2.0
+2012,12,San Francisco,33.0,5.0
+2012,4,Daly City,201.0,3.0
+2012,4,Burlingame,1.0,1.0
+2012,4,Brisbane,476.0,33.0
+2012,4,Atherton,8.0,1.0
+2012,3,Woodside,3.0,1.0
+2012,3,San Jose,11.0,1.0
+2012,3,San Francisco,40.0,7.0
+2012,3,San Bruno,2.0,2.0
+2012,3,Portola Valley,10.0,2.0
+2012,12,San Mateo,2.0,2.0
+2012,3,Palo Alto,14.0,2.0
+2012,3,Pacifica,57.0,1.0
+2012,3,Oakland,2.0,1.0
+2012,3,Mountain View,2.0,1.0
+2012,3,Mill Valley,1.0,1.0
+2012,3,Menlo Park,1.0,1.0
+2012,3,Half Moon Bay,4.0,1.0
+2012,3,Foster City,2.0,1.0
+2012,3,Daly City,207.0,4.0
+2012,3,Burlingame,2.0,2.0
+2012,3,Brisbane,393.0,16.0
+2012,3,Berkeley,1.0,1.0
+2012,3,Atherton,4.0,2.0
+2012,2,San Mateo,3.0,3.0
+2012,2,San Francisco,21.0,4.0
+2012,2,San Carlos,2.0,1.0
+2012,2,San Bruno,15.0,3.0
+2012,2,Portola Valley,14.0,1.0
+2012,2,Palo Alto,38.0,1.0
+2012,2,Pacifica,22.0,1.0
+2012,2,Oakland,8.0,1.0
+2012,2,Foster City,2.0,1.0
+2012,2,Daly City,201.0,6.0
+2012,2,Burlingame,2.0,2.0
+2012,2,Brisbane,357.0,18.0
+2012,1,Woodside,28.0,2.0
+2012,1,South San Franciscio,2.0,1.0
+2012,1,San Mateo,1.0,1.0
+2012,1,San Francisco,13.0,4.0
+2012,1,San Carlos,4.0,2.0
+2012,1,San Bruno,6.0,3.0
+2012,1,Redwood City,1.0,1.0
+2012,1,Palo Alto,147.0,2.0
+2012,1,Pacifica,38.0,1.0
+2012,1,Oakland,2.0,2.0
+2012,1,Montara,1.0,1.0
+2012,1,Larkspur,1.0,1.0
+2012,1,Foster City,2.0,1.0
+2012,1,Daly City,50.0,2.0
+2012,1,Burlingame,1.0,1.0
+2012,1,Brisbane,361.0,16.0
+2012,1,Alameda,1.0,1.0
+2012,11,San Bruno,5.0,2.0
+2012,11,San Carlos,2.0,1.0
+2012,11,San Francisco,29.0,6.0
+2012,11,San Mateo,3.0,1.0
+2012,11,Sausalito,1.0,1.0
+2012,11,South San Franciscio,4.0,4.0
+2012,11,Sunnyvale,1.0,1.0
+2012,11,The Sea Ranch,1.0,1.0
+2012,11,Tiburon,2.0,1.0
+2012,12,South San Franciscio,5.0,2.0
+2012,11,Woodside,1.0,1.0
+2012,12,Alameda,1.0,1.0
+2012,12,Atherton,4.0,1.0
+2012,12,Brisbane,20.0,5.0
+2012,12,Burlingame,1.0,1.0
+2012,12,Daly City,176.0,3.0
+2012,12,Foster City,4.0,3.0
+2012,12,Fremont,1.0,1.0
+2012,12,Hayward,1.0,1.0
+2012,12,Menlo Park,3.0,2.0
+2012,12,Millbrae,1.0,1.0
+2012,11,Redwood City,1.0,1.0
+2012,11,Portola Valley,4.0,2.0
+2012,12,Oakland,2.0,2.0
+2012,11,Palo Alto,1.0,1.0
+2012,11,Pacifica,33.0,7.0
+2012,11,Oakland,11.0,4.0
+2012,11,Mountain View,1.0,1.0
+2012,11,Millbrae,6.0,5.0
+2012,11,Menlo Park,3.0,2.0
+2012,11,Half Moon Bay,1.0,1.0
+2011,9,Menlo Park,2.0,2.0
+2011,12,Woodside,2.0,1.0
+2011,12,San Mateo,1.0,1.0
+2011,12,San Francisco,1.0,1.0
+2011,12,San Carlos,2.0,1.0
+2011,12,Redwood City,84.0,3.0
+2011,12,Portola Valley,5.0,1.0
+2011,12,Pacifica,28.0,1.0
+2011,12,Oakland,1.0,1.0
+2011,12,Millbrae,8.0,1.0
+2011,12,Menlo Park,1.0,1.0
+2011,12,Hillsborough,6.0,2.0
+2011,12,Foster City,1.0,1.0
+2011,12,Daly City,45.0,2.0
+2011,12,Burlingame,5.0,2.0
+2011,12,Brisbane,364.0,10.0
+2011,12,Berkeley,1.0,1.0
+2011,11,Woodside,9.0,3.0
+2011,11,South San Franciscio,4.0,3.0
+2011,11,San Mateo,3.0,3.0
+2011,11,San Francisco,3.0,3.0
+2011,11,San Carlos,2.0,2.0
+2011,11,San Bruno,13.0,3.0
+2011,11,Redwood City,128.0,2.0
+2011,11,Portola Valley,5.0,3.0
+2011,11,Pacifica,32.0,1.0
+2011,11,Millbrae,1.0,1.0
+2011,11,Menlo Park,2.0,1.0
+2011,11,Hillsborough,2.0,1.0
+2011,11,Foster City,3.0,3.0
+2011,11,Daly City,112.0,4.0
+2011,11,Burlingame,2.0,2.0
+2011,11,Brisbane,535.0,9.0
+2011,11,Berkeley,1.0,1.0
+2011,11,Belmont,1.0,1.0
+2011,11,Atherton,1.0,1.0
+2011,11,Alameda,2.0,2.0
+2011,10,Woodside,2.0,1.0
+2011,10,Sunnyvale,3.0,1.0
+2011,10,South San Franciscio,17.0,7.0
+2011,10,San Ramon,1.0,1.0
+2011,10,San Mateo,1.0,1.0
+2011,10,San Francisco,21.0,18.0
+2011,10,San Carlos,3.0,2.0
+2011,10,Redwood City,246.0,2.0
+2011,10,Portola Valley,9.0,6.0
+2011,10,Pacifica,46.0,4.0
+2011,10,Oakland,1.0,1.0
+2011,10,Millbrae,3.0,3.0
+2011,10,Hillsborough,3.0,2.0
+2011,10,Foster City,12.0,3.0
+2011,10,Daly City,171.0,3.0
+2011,10,Burlingame,3.0,3.0
+2011,10,Brisbane,903.0,24.0
+2011,10,Alameda,3.0,1.0
+2011,9,Woodside,4.0,1.0
+2011,9,Stanford,3.0,1.0
+2011,9,South San Franciscio,7.0,6.0
+2011,9,San Mateo,3.0,3.0
+2011,9,San Francisco,7.0,6.0
+2011,9,San Carlos,1.0,1.0
+2011,9,San Bruno,5.0,4.0
+2011,9,Redwood City,5.0,4.0
+2011,9,Portola Valley,6.0,2.0
+2011,9,Pleasanton,1.0,1.0
+2011,9,Pescadero,1.0,1.0
+2011,9,Palo Alto,2.0,1.0
+2011,9,Pacifica,57.0,2.0
+2011,9,Oakland,3.0,1.0
+2011,9,Millbrae,3.0,3.0
+2011,9,Hillsborough,2.0,1.0
+2011,9,Half Moon Bay,1.0,1.0
+2011,9,Foster City,3.0,1.0
+2011,9,Daly City,125.0,2.0
+2011,9,Brisbane,816.0,25.0
+2011,9,Berkeley,1.0,1.0
+2011,9,Belmont,2.0,1.0
+2011,8,Union City,1.0,1.0
+2011,8,South San Franciscio,1.0,1.0
+2011,8,San Ramon,1.0,1.0
+2011,8,San Mateo,7.0,6.0
+2011,8,San Francisco,9.0,5.0
+2011,8,San Bruno,1.0,1.0
+2011,8,Redwood City,1.0,1.0
+2011,8,Portola Valley,9.0,1.0
+2011,8,Palo Alto,20.0,2.0
+2011,8,Pacifica,25.0,2.0
+2011,8,Oakland,1.0,1.0
+2011,8,Novato,3.0,1.0
+2011,8,Millbrae,1.0,1.0
+2011,8,Menlo Park,1.0,1.0
+2011,8,Hillsborough,1.0,1.0
+2011,8,Foster City,2.0,2.0
+2011,8,Daly City,165.0,4.0
+2011,8,Burlingame,3.0,3.0
+2011,8,Brisbane,473.0,16.0
+2011,8,Belmont,3.0,1.0
+2011,7,Woodside,5.0,1.0
+2011,7,South San Franciscio,1.0,1.0
+2011,7,San Mateo,4.0,3.0
+2011,7,San Francisco,12.0,8.0
+2011,7,San Carlos,1.0,1.0
+2011,7,San Bruno,6.0,4.0
+2011,7,Portola Valley,1.0,1.0
+2011,7,Palo Alto,29.0,2.0
+2011,7,Pacifica,66.0,1.0
+2011,7,Oakland,7.0,1.0
+2011,7,Millbrae,5.0,1.0
+2011,7,Menlo Park,1.0,1.0
+2011,7,Los Altos,1.0,1.0
+2011,7,Half Moon Bay,1.0,1.0
+2011,7,Foster City,32.0,3.0
+2011,7,Daly City,99.0,4.0
+2011,7,Burlingame,1.0,1.0
+2011,7,Brisbane,94.0,12.0
+2011,7,Belmont,3.0,1.0
+2011,7,Alameda,1.0,1.0
+2011,6,Woodside,1.0,1.0
+2011,6,South San Franciscio,4.0,2.0
+2011,6,San Mateo,4.0,3.0
+2011,6,San Francisco,20.0,15.0
+2011,6,San Bruno,7.0,3.0
+2011,6,Palo Alto,32.0,3.0
+2011,6,Pacifica,89.0,2.0
+2011,6,Oakland,28.0,2.0
+2011,6,Millbrae,3.0,2.0
+2011,6,Menlo Park,3.0,2.0
+2011,6,Los Altos Hills,1.0,1.0
+2011,6,Foster City,2.0,1.0
+2011,6,Daly City,112.0,31.0
+2011,6,Brisbane,576.0,12.0
+2011,5,South San Franciscio,8.0,3.0
+2011,5,San Francisco,14.0,12.0
+2011,5,San Bruno,5.0,3.0
+2011,5,Palo Alto,245.0,4.0
+2011,5,Pacifica,77.0,1.0
+2011,5,Oakland,5.0,2.0
+2011,5,Menlo Park,2.0,1.0
+2011,5,Hillsborough,2.0,1.0
+2011,5,Half Moon Bay,1.0,1.0
+2011,5,Foster City,5.0,3.0
+2011,5,Daly City,315.0,4.0
+2011,5,Brisbane,78.0,11.0
+2011,4,South San Franciscio,4.0,2.0
+2011,4,San Mateo,5.0,3.0
+2011,4,San Francisco,3.0,3.0
+2011,4,San Carlos,1.0,1.0
+2011,4,San Bruno,1.0,1.0
+2011,4,Palo Alto,20.0,3.0
+2011,4,Pacifica,68.0,1.0
+2011,4,Orinda,2.0,1.0
+2011,4,Oakland,1.0,1.0
+2011,4,Novato,1.0,1.0
+2011,4,Millbrae,1.0,1.0
+2011,4,Menlo Park,2.0,1.0
+2011,4,Lafayette,1.0,1.0
+2011,4,La Honda,1.0,1.0
+2011,4,Kensington,1.0,1.0
+2011,4,Foster City,5.0,2.0
+2011,4,Daly City,201.0,3.0
+2011,4,Burlingame,1.0,1.0
+2011,4,Brisbane,97.0,6.0
+2011,4,Alameda,1.0,1.0
+2011,3,Woodside,1.0,1.0
+2011,3,South San Franciscio,7.0,2.0
+2011,3,Sausalito,1.0,1.0
+2011,3,San Francisco,11.0,8.0
+2011,3,San Bruno,3.0,2.0
+2011,3,Redwood City,2.0,2.0
+2011,3,Portola Valley,2.0,1.0
+2011,3,Palo Alto,12.0,2.0
+2011,3,Pacifica,61.0,3.0
+2011,3,Novato,1.0,1.0
+2011,3,Mountain View,1.0,1.0
+2011,3,Millbrae,1.0,1.0
+2011,3,Menlo Park,2.0,1.0
+2011,3,Foster City,4.0,3.0
+2011,3,Daly City,206.0,4.0
+2011,3,Burlingame,3.0,3.0
+2011,3,Brisbane,185.0,17.0
+2011,3,Alameda,2.0,2.0
+2011,2,South San Franciscio,1.0,1.0
+2011,2,San Mateo,2.0,2.0
+2011,2,San Francisco,10.0,5.0
+2011,2,San Carlos,2.0,1.0
+2011,2,San Bruno,1.0,1.0
+2011,2,Portola Valley,1.0,1.0
+2011,2,Palo Alto,1.0,1.0
+2011,2,Pacifica,20.0,3.0
+2011,2,Millbrae,7.0,4.0
+2011,2,Menlo Park,2.0,1.0
+2011,2,Hillsborough,1.0,1.0
+2011,2,Foster City,3.0,2.0
+2011,2,Daly City,129.0,4.0
+2011,2,Brisbane,222.0,10.0
+2011,1,South San Franciscio,2.0,2.0
+2011,1,San Mateo,7.0,3.0
+2011,1,San Francisco,33.0,6.0
+2011,1,San Bruno,1.0,1.0
+2011,1,Redwood City,1.0,1.0
+2011,1,Portola Valley,1.0,1.0
+2011,1,Pacifica,11.0,1.0
+2011,1,Novato,2.0,1.0
+2011,1,Montara,1.0,1.0
+2011,1,Lafayette,1.0,1.0
+2011,1,Foster City,2.0,2.0
+2011,1,Daly City,98.0,4.0
+2011,1,Burlingame,1.0,1.0
+2011,1,Brisbane,976.0,27.0
+2011,1,Belmont,1.0,1.0
+2011,1,Alameda,4.0,2.0
+2010,10,Palo Alto,12.0,4.0
+2010,10,Pacifica,33.0,1.0
+2010,10,Mountain View,2.0,1.0
+2010,10,Moraga,7.0,1.0
+2010,10,Millbrae,2.0,1.0
+2010,10,Menlo Park,2.0,1.0
+2010,10,Los Altos,4.0,2.0
+2010,10,La Honda,3.0,1.0
+2010,10,Foster City,11.0,3.0
+2010,10,Daly City,187.0,6.0
+2010,10,Burlingame,4.0,1.0
+2010,10,Brisbane,302.0,28.0
+2010,10,Atherton,1.0,1.0
+2010,10,Alameda,1.0,1.0
+2010,9,Woodside,3.0,1.0
+2010,9,South San Franciscio,2.0,1.0
+2010,9,San Francisco,17.0,5.0
+2010,9,San Carlos,1.0,1.0
+2010,9,San Bruno,5.0,4.0
+2010,9,Palo Alto,18.0,3.0
+2010,9,Pacifica,66.0,1.0
+2010,9,Mountain View,1.0,1.0
+2010,9,Millbrae,3.0,2.0
+2010,9,Menlo Park,1.0,1.0
+2010,9,Foster City,20.0,12.0
+2010,11,Pacifica,9.0,1.0
+2010,9,Daly City,190.0,2.0
+2010,12,Brisbane,615.0,29.0
+2010,9,Burlingame,3.0,2.0
+2010,9,Brisbane,181.0,13.0
+2010,8,South San Franciscio,3.0,3.0
+2010,8,San Mateo,1.0,1.0
+2010,8,San Francisco,7.0,3.0
+2010,8,San Carlos,1.0,1.0
+2010,8,San Bruno,1.0,1.0
+2010,8,Redwood City,1.0,1.0
+2010,8,Palo Alto,24.0,3.0
+2010,8,Pacifica,51.0,1.0
+2010,8,Millbrae,2.0,1.0
+2010,8,Menlo Park,1.0,1.0
+2010,8,Foster City,8.0,4.0
+2010,8,Daly City,64.0,3.0
+2010,8,Burlingame,6.0,4.0
+2010,8,Brisbane,184.0,7.0
+2010,7,San Mateo,2.0,2.0
+2010,7,San Francisco,3.0,2.0
+2010,7,San Carlos,1.0,1.0
+2010,7,San Bruno,3.0,2.0
+2010,7,Redwood City,3.0,2.0
+2010,7,Portola Valley,1.0,1.0
+2010,7,Palo Alto,7.0,3.0
+2010,7,Pacifica,43.0,1.0
+2010,7,Foster City,3.0,2.0
+2010,7,Daly City,45.0,2.0
+2010,7,Burlingame,3.0,2.0
+2010,7,Brisbane,348.0,7.0
+2010,7,Atherton,5.0,2.0
+2010,6,South San Franciscio,6.0,5.0
+2010,6,San Francisco,20.0,3.0
+2010,6,San Carlos,3.0,2.0
+2010,6,San Bruno,8.0,3.0
+2010,6,Redwood City,1.0,1.0
+2010,6,Portola Valley,6.0,1.0
+2010,6,Palo Alto,21.0,2.0
+2010,6,Pacifica,159.0,2.0
+2010,11,Palo Alto,14.0,4.0
+2010,6,Millbrae,1.0,1.0
+2010,6,Menlo Park,7.0,2.0
+2010,6,La Honda,2.0,1.0
+2010,11,San Bruno,6.0,2.0
+2010,6,Foster City,21.0,8.0
+2010,6,Daly City,58.0,5.0
+2010,6,Burlingame,5.0,1.0
+2010,6,Brisbane,269.0,7.0
+2010,6,Atherton,1.0,1.0
+2010,11,San Francisco,447.0,5.0
+2010,5,Woodside,8.0,1.0
+2010,5,South San Franciscio,3.0,2.0
+2010,5,San Mateo,1.0,1.0
+2010,5,San Francisco,4.0,3.0
+2010,5,San Carlos,2.0,1.0
+2010,5,San Bruno,5.0,1.0
+2010,5,Portola Valley,13.0,1.0
+2010,5,Palo Alto,7.0,1.0
+2010,5,Pacifica,105.0,4.0
+2010,5,Novato,1.0,1.0
+2010,5,Millbrae,2.0,1.0
+2010,5,Menlo Park,3.0,2.0
+2010,5,Foster City,1.0,1.0
+2010,5,Daly City,118.0,2.0
+2010,5,Brisbane,226.0,9.0
+2010,5,Atherton,3.0,1.0
+2010,4,South San Franciscio,2.0,2.0
+2010,4,San Mateo,2.0,1.0
+2010,4,San Francisco,2.0,1.0
+2010,4,Redwood City,5.0,1.0
+2010,4,Portola Valley,57.0,2.0
+2010,4,Pacifica,27.0,3.0
+2010,4,Foster City,40.0,3.0
+2010,12,Daly City,86.0,4.0
+2010,4,Daly City,131.0,4.0
+2010,4,Brisbane,1222.0,13.0
+2010,4,Belmont,3.0,3.0
+2010,4,Atherton,1.0,1.0
+2010,4,Alameda,1.0,1.0
+2010,3,Woodside,3.0,1.0
+2010,11,Santa Cruz,3.0,1.0
+2010,3,South San Franciscio,2.0,2.0
+2010,3,San Rafael,3.0,1.0
+2010,3,San Francisco,25.0,3.0
+2010,3,San Carlos,3.0,2.0
+2010,3,San Bruno,1.0,1.0
+2010,3,Redwood City,1.0,1.0
+2010,3,Portola Valley,7.0,4.0
+2010,11,South San Franciscio,9.0,5.0
+2010,12,Foster City,6.0,1.0
+2010,3,Palo Alto,1.0,1.0
+2010,3,Pacifica,39.0,3.0
+2010,3,Millbrae,12.0,2.0
+2010,3,Los Altos,7.0,1.0
+2010,3,Foster City,140.0,5.0
+2010,3,Daly City,241.0,2.0
+2010,3,Burlingame,1.0,1.0
+2010,3,Brisbane,725.0,10.0
+2010,3,Belmont,1.0,1.0
+2010,3,Atherton,8.0,1.0
+2010,12,La Honda,1.0,1.0
+2010,2,Woodside,56.0,1.0
+2010,2,South San Franciscio,5.0,3.0
+2010,2,San Rafael,7.0,1.0
+2010,2,San Mateo,4.0,1.0
+2010,2,San Francisco,3.0,3.0
+2010,2,San Carlos,4.0,1.0
+2010,2,San Bruno,1.0,1.0
+2010,2,Redwood City,10.0,2.0
+2010,2,Portola Valley,6.0,2.0
+2010,2,Pacifica,6.0,1.0
+2010,2,Millbrae,3.0,1.0
+2010,2,Foster City,5.0,2.0
+2010,2,Daly City,92.0,6.0
+2010,11,Millbrae,1.0,1.0
+2010,2,Burlingame,1.0,1.0
+2010,2,Brisbane,187.0,6.0
+2010,2,Alameda,4.0,2.0
+2010,1,Woodside,8.0,1.0
+2010,1,South San Franciscio,9.0,7.0
+2010,1,San Francisco,7.0,6.0
+2010,1,San Carlos,8.0,4.0
+2010,1,San Bruno,1.0,1.0
+2010,1,Redwood City,5.0,2.0
+2010,1,Piedmont,2.0,1.0
+2010,1,Palo Alto,2.0,1.0
+2010,12,Alameda,1.0,1.0
+2010,1,Pacifica,10.0,2.0
+2010,12,Belmont,1.0,1.0
+2010,1,Oakland,1.0,1.0
+2010,1,Novato,10.0,1.0
+2010,1,Millbrae,6.0,2.0
+2010,1,Menlo Park,2.0,1.0
+2010,1,Foster City,4.0,1.0
+2010,12,Millbrae,2.0,1.0
+2010,1,Daly City,95.0,2.0
+2010,1,Burlingame,1.0,1.0
+2010,1,Brisbane,205.0,14.0
+2010,1,Alameda,1.0,1.0
+2010,11,Los Altos,3.0,2.0
+2010,11,Daly City,188.0,6.0
+2010,11,Brisbane,686.0,40.0
+2010,12,Woodside,1.0,1.0
+2010,12,South San Franciscio,2.0,2.0
+2010,12,Saratoga,1.0,1.0
+2010,12,San Mateo,3.0,1.0
+2010,12,San Francisco,31.0,7.0
+2010,12,San Bruno,8.0,2.0
+2010,12,Palo Alto,8.0,1.0
+2010,12,Pacifica,1.0,1.0
+2010,10,Woodside,1.0,1.0
+2010,10,Walnut Creek,1.0,1.0
+2010,10,South San Franciscio,5.0,2.0
+2010,10,Saratoga,1.0,1.0
+2010,10,Santa Cruz,1.0,1.0
+2010,10,San Mateo,2.0,1.0
+2010,10,San Francisco,84.0,15.0
+2010,10,San Carlos,4.0,2.0
+2010,10,San Bruno,2.0,2.0
+2010,10,Redwood City,5.0,3.0
+2009,2,South San Franciscio,7.0,4.0
+2009,12,Woodside,2.0,1.0
+2009,12,South San Franciscio,3.0,2.0
+2009,12,San Mateo,1.0,1.0
+2009,12,San Francisco,3.0,2.0
+2009,12,San Carlos,3.0,3.0
+2009,12,Pacifica,8.0,1.0
+2009,12,Oakland,1.0,1.0
+2009,12,Millbrae,2.0,2.0
+2009,12,Menlo Park,2.0,2.0
+2009,12,Foster City,11.0,3.0
+2009,12,Daly City,64.0,4.0
+2009,12,Brisbane,113.0,3.0
+2009,12,Alameda,1.0,1.0
+2009,11,South San Franciscio,5.0,3.0
+2009,11,San Francisco,4.0,2.0
+2009,11,San Carlos,7.0,1.0
+2009,11,San Bruno,1.0,1.0
+2009,11,Redwood City,7.0,2.0
+2009,11,Portola Valley,2.0,1.0
+2009,11,Palo Alto,4.0,1.0
+2009,11,Pacifica,26.0,1.0
+2009,11,Millbrae,4.0,2.0
+2009,11,Menlo Park,1.0,1.0
+2009,11,Los Altos,1.0,1.0
+2009,11,Hillsborough,1.0,1.0
+2009,11,Foster City,48.0,2.0
+2009,11,Daly City,69.0,2.0
+2009,11,Burlingame,1.0,1.0
+2009,11,Brisbane,153.0,7.0
+2009,10,South San Franciscio,6.0,3.0
+2009,10,San Francisco,18.0,10.0
+2009,10,San Carlos,36.0,3.0
+2009,10,Redwood City,5.0,3.0
+2009,10,Portola Valley,1.0,1.0
+2009,10,Palo Alto,6.0,2.0
+2009,10,Pacifica,61.0,2.0
+2009,10,Millbrae,8.0,5.0
+2009,10,Menlo Park,1.0,1.0
+2009,10,Foster City,12.0,4.0
+2009,10,Daly City,80.0,2.0
+2009,10,Castro Valley,1.0,1.0
+2009,10,Brisbane,330.0,10.0
+2009,9,South San Franciscio,5.0,1.0
+2009,9,San Francisco,7.0,7.0
+2009,9,San Carlos,23.0,4.0
+2009,9,San Bruno,3.0,2.0
+2009,9,Redwood City,2.0,1.0
+2009,9,Palo Alto,2.0,2.0
+2009,9,Pacifica,39.0,1.0
+2009,9,Millbrae,12.0,2.0
+2009,9,Hayward,1.0,1.0
+2009,9,Foster City,18.0,7.0
+2009,9,Daly City,149.0,2.0
+2009,9,Castro Valley,1.0,1.0
+2009,9,Burlingame,2.0,1.0
+2009,9,Brisbane,284.0,13.0
+2009,8,Woodside,12.0,2.0
+2009,8,San Mateo,4.0,3.0
+2009,8,San Francisco,4.0,4.0
+2009,8,San Carlos,12.0,3.0
+2009,8,Redwood City,1.0,1.0
+2009,8,Portola Valley,1.0,1.0
+2009,8,Pacifica,22.0,2.0
+2009,8,Millbrae,14.0,3.0
+2009,8,Hillsborough,1.0,1.0
+2009,8,Foster City,20.0,5.0
+2009,8,Daly City,119.0,2.0
+2009,8,Brisbane,374.0,7.0
+2009,7,Woodside,5.0,1.0
+2009,7,San Mateo,4.0,3.0
+2009,7,San Francisco,3.0,3.0
+2009,7,San Carlos,13.0,3.0
+2009,7,San Bruno,2.0,2.0
+2009,7,Redwood City,2.0,1.0
+2009,7,Palo Alto,2.0,2.0
+2009,7,Pacifica,50.0,3.0
+2009,7,Millbrae,4.0,1.0
+2009,7,Hillsborough,3.0,3.0
+2009,7,Foster City,59.0,9.0
+2009,7,Daly City,73.0,2.0
+2009,7,Burlingame,2.0,2.0
+2009,7,Brisbane,144.0,7.0
+2009,6,Woodside,33.0,3.0
+2009,6,San Mateo,1.0,1.0
+2009,6,San Francisco,8.0,3.0
+2009,6,San Carlos,20.0,3.0
+2009,6,San Bruno,3.0,1.0
+2009,6,Redwood City,24.0,2.0
+2009,6,Palo Alto,8.0,3.0
+2009,6,Pacifica,43.0,4.0
+2009,6,Millbrae,10.0,2.0
+2009,6,Menlo Park,2.0,1.0
+2009,6,Hillsborough,3.0,2.0
+2009,6,Foster City,33.0,10.0
+2009,6,Daly City,130.0,2.0
+2009,6,Brisbane,375.0,13.0
+2009,5,Woodside,3.0,2.0
+2009,5,South San Franciscio,1.0,1.0
+2009,5,San Mateo,6.0,3.0
+2009,5,San Francisco,9.0,8.0
+2009,5,San Carlos,11.0,4.0
+2009,5,San Bruno,5.0,2.0
+2009,5,Redwood City,13.0,1.0
+2009,5,Palo Alto,1.0,1.0
+2009,5,Pacifica,34.0,1.0
+2009,5,Millbrae,2.0,2.0
+2009,5,Menlo Park,2.0,1.0
+2009,5,Hillsborough,2.0,2.0
+2009,5,Foster City,23.0,7.0
+2009,5,Daly City,18.0,3.0
+2009,5,Burlingame,5.0,3.0
+2009,5,Brisbane,134.0,6.0
+2009,5,Alameda,1.0,1.0
+2009,4,Woodside,28.0,3.0
+2009,4,San Francisco,9.0,8.0
+2009,4,San Carlos,29.0,3.0
+2009,4,San Bruno,6.0,3.0
+2009,4,Redwood City,2.0,1.0
+2009,4,Portola Valley,1.0,1.0
+2009,4,Palo Alto,10.0,4.0
+2009,4,Pacifica,64.0,4.0
+2009,4,Oakland,4.0,3.0
+2009,4,Mill Valley,2.0,1.0
+2009,4,Menlo Park,1.0,1.0
+2009,4,Foster City,13.0,5.0
+2009,4,Danville,1.0,1.0
+2009,4,Daly City,46.0,3.0
+2009,4,Colma,13.0,1.0
+2009,4,Brisbane,175.0,11.0
+2009,4,Belmont,1.0,1.0
+2009,3,Woodside,15.0,2.0
+2009,3,South San Franciscio,2.0,2.0
+2009,3,San Mateo,5.0,1.0
+2009,3,San Francisco,36.0,4.0
+2009,3,San Carlos,7.0,3.0
+2009,3,San Bruno,1.0,1.0
+2009,3,Redwood City,44.0,1.0
+2009,3,Palo Alto,10.0,2.0
+2009,3,Pacifica,35.0,2.0
+2009,3,Oakland,3.0,1.0
+2009,3,Millbrae,7.0,4.0
+2009,3,Hillsborough,1.0,1.0
+2009,3,Foster City,115.0,11.0
+2009,3,El Cerrito,1.0,1.0
+2009,3,Daly City,84.0,3.0
+2009,3,Burlingame,11.0,6.0
+2009,3,Brisbane,265.0,10.0
+2009,2,Woodside,9.0,1.0
+2009,2,Tiburon,3.0,1.0
+2009,2,San Mateo,5.0,2.0
+2009,2,San Francisco,43.0,4.0
+2009,2,San Carlos,30.0,3.0
+2009,2,Redwood City,33.0,2.0
+2009,2,Palo Alto,6.0,2.0
+2009,2,Novato,3.0,1.0
+2009,2,Foster City,20.0,10.0
+2009,2,Daly City,120.0,3.0
+2009,2,Burlingame,1.0,1.0
+2009,2,Brisbane,210.0,7.0
+2009,2,Belmont,1.0,1.0
+2009,1,Woodside,6.0,1.0
+2009,1,South San Franciscio,6.0,2.0
+2009,1,San Mateo,6.0,2.0
+2009,1,San Francisco,2.0,2.0
+2009,1,San Carlos,19.0,3.0
+2009,1,San Bruno,7.0,3.0
+2009,1,Redwood City,1.0,1.0
+2009,1,Palo Alto,2.0,1.0
+2009,1,Pacifica,1.0,1.0
+2009,1,Millbrae,1.0,1.0
+2009,1,Hillsborough,5.0,2.0
+2009,1,Foster City,8.0,1.0
+2009,1,Daly City,93.0,5.0
+2009,1,Burlingame,1.0,1.0
+2009,1,Brisbane,211.0,6.0
+2008,12,Foster City,11.0,2.0
+2008,12,Daly City,86.0,4.0
+2008,12,Brisbane,221.0,10.0
+2008,11,Woodside,8.0,1.0
+2008,11,South San Franciscio,7.0,5.0
+2008,11,San Francisco,25.0,11.0
+2008,11,San Carlos,35.0,3.0
+2008,11,San Bruno,2.0,2.0
+2008,12,Menlo Park,1.0,1.0
+2008,12,Palo Alto,4.0,3.0
+2008,11,Redwood City,19.0,1.0
+2008,11,Palo Alto,28.0,1.0
+2008,11,Pacifica,11.0,1.0
+2008,11,Millbrae,1.0,1.0
+2008,11,Hillsborough,1.0,1.0
+2008,11,Foster City,13.0,2.0
+2008,11,Daly City,115.0,3.0
+2008,11,Brisbane,519.0,9.0
+2008,12,San Bruno,7.0,3.0
+2008,11,Belmont,1.0,1.0
+2008,10,Woodside,17.0,1.0
+2008,10,Tiburon,4.0,2.0
+2008,10,South San Franciscio,6.0,5.0
+2008,10,San Mateo,1.0,1.0
+2008,10,San Francisco,16.0,15.0
+2008,10,San Carlos,62.0,3.0
+2008,10,San Bruno,3.0,3.0
+2008,10,Redwood City,22.0,2.0
+2008,10,Palo Alto,7.0,3.0
+2008,10,Pacifica,37.0,1.0
+2008,10,Oakland,2.0,1.0
+2008,10,Mill Valley,1.0,1.0
+2008,10,Foster City,12.0,3.0
+2008,10,Daly City,60.0,4.0
+2008,12,San Carlos,97.0,3.0
+2008,10,Burlingame,1.0,1.0
+2008,10,Brisbane,517.0,18.0
+2008,10,Alameda,4.0,1.0
+2008,9,South San Franciscio,6.0,3.0
+2008,9,San Mateo,2.0,2.0
+2008,9,San Francisco,10.0,3.0
+2008,9,San Carlos,83.0,2.0
+2008,9,San Bruno,2.0,2.0
+2008,9,Redwood City,2.0,1.0
+2008,9,Portola Valley,1.0,1.0
+2008,9,Palo Alto,22.0,4.0
+2008,9,Pacifica,8.0,2.0
+2008,9,Foster City,26.0,8.0
+2008,9,Daly City,55.0,1.0
+2008,12,San Francisco,4.0,4.0
+2008,9,Burlingame,3.0,1.0
+2008,9,Brisbane,422.0,11.0
+2008,8,Woodside,11.0,4.0
+2008,8,South San Franciscio,2.0,2.0
+2008,8,San Mateo,1.0,1.0
+2008,8,San Carlos,80.0,2.0
+2008,8,San Bruno,1.0,1.0
+2008,8,Redwood City,3.0,1.0
+2008,8,Palo Alto,13.0,4.0
+2008,8,Pacifica,27.0,2.0
+2008,8,Foster City,97.0,11.0
+2008,8,Daly City,11.0,3.0
+2008,8,Burlingame,1.0,1.0
+2008,8,Brisbane,294.0,11.0
+2008,8,Alameda,2.0,1.0
+2008,7,Woodside,1.0,1.0
+2008,7,South San Franciscio,6.0,3.0
+2008,7,San Mateo,1.0,1.0
+2008,7,San Carlos,105.0,3.0
+2008,7,San Bruno,7.0,4.0
+2008,7,Redwood City,97.0,2.0
+2008,7,Palo Alto,7.0,2.0
+2008,7,Pacifica,30.0,1.0
+2008,7,Menlo Park,1.0,1.0
+2008,7,Foster City,27.0,3.0
+2008,7,Daly City,50.0,1.0
+2008,7,Burlingame,1.0,1.0
+2008,12,San Mateo,2.0,1.0
+2008,7,Brisbane,289.0,5.0
+2008,6,Woodside,1.0,1.0
+2008,6,South San Franciscio,11.0,3.0
+2008,6,San Francisco,6.0,6.0
+2008,6,San Carlos,94.0,3.0
+2008,6,San Bruno,4.0,2.0
+2008,6,Redwood City,40.0,2.0
+2008,6,Portola Valley,2.0,1.0
+2008,6,Palo Alto,6.0,2.0
+2008,6,Pacifica,39.0,2.0
+2008,6,Hillsborough,1.0,1.0
+2008,6,Foster City,95.0,7.0
+2008,6,Daly City,236.0,2.0
+2008,6,Brisbane,219.0,6.0
+2008,5,Woodside,1.0,1.0
+2008,5,South San Franciscio,1.0,1.0
+2008,5,San Francisco,12.0,3.0
+2008,5,San Carlos,25.0,3.0
+2008,5,San Bruno,3.0,3.0
+2008,5,Redwood City,35.0,2.0
+2008,5,Palo Alto,1.0,1.0
+2008,5,Pacifica,44.0,5.0
+2008,5,Foster City,5.0,4.0
+2008,5,Daly City,36.0,4.0
+2008,5,Burlingame,1.0,1.0
+2008,5,Brisbane,356.0,10.0
+2008,5,Alameda,2.0,1.0
+2008,4,South San Franciscio,22.0,4.0
+2008,4,San Mateo,1.0,1.0
+2008,4,San Francisco,29.0,9.0
+2008,4,San Carlos,5.0,2.0
+2008,4,San Bruno,4.0,2.0
+2008,4,Redwood City,66.0,1.0
+2008,4,Palo Alto,23.0,1.0
+2008,12,South San Franciscio,5.0,1.0
+2008,4,Pacifica,38.0,2.0
+2008,4,Foster City,3.0,3.0
+2008,4,Daly City,140.0,2.0
+2008,4,Burlingame,1.0,1.0
+2008,4,Brisbane,338.0,9.0
+2008,12,Woodside,27.0,1.0
+2008,3,Woodside,1.0,1.0
+2008,3,South San Franciscio,2.0,2.0
+2008,3,Sausalito,1.0,1.0
+2008,3,San Mateo,1.0,1.0
+2008,3,San Francisco,19.0,3.0
+2008,3,San Carlos,3.0,2.0
+2008,3,San Bruno,8.0,4.0
+2008,3,Redwood City,39.0,2.0
+2008,3,Pacifica,71.0,2.0
+2008,3,Millbrae,1.0,1.0
+2008,3,Foster City,6.0,2.0
+2008,3,Daly City,356.0,5.0
+2008,3,Brisbane,321.0,9.0
+2008,3,Belmont,1.0,1.0
+2008,2,San Mateo,1.0,1.0
+2008,2,San Francisco,4.0,2.0
+2008,2,San Carlos,1.0,1.0
+2008,2,San Bruno,2.0,1.0
+2008,2,Redwood City,8.0,1.0
+2008,2,Palo Alto,1.0,1.0
+2008,2,Pacifica,1.0,1.0
+2008,2,Millbrae,4.0,2.0
+2008,2,Hillsborough,1.0,1.0
+2008,2,Foster City,23.0,2.0
+2008,2,Daly City,224.0,3.0
+2008,2,Burlingame,8.0,5.0
+2008,2,Brisbane,195.0,5.0
+2008,2,Alameda,2.0,2.0
+2008,1,South San Franciscio,2.0,2.0
+2008,1,San Mateo,1.0,1.0
+2008,1,San Francisco,21.0,7.0
+2008,1,San Bruno,4.0,3.0
+2008,1,Redwood City,1.0,1.0
+2008,1,Palo Alto,1.0,1.0
+2008,1,Montara,1.0,1.0
+2008,1,Millbrae,1.0,1.0
+2008,1,Foster City,1.0,1.0
+2008,1,Fairfax,1.0,1.0
+2008,1,Daly City,388.0,3.0
+2008,1,Burlingame,5.0,3.0
+2008,1,Brisbane,158.0,5.0
+2008,1,Belmont,3.0,2.0
+2007,5,Tiburon,2.0,1.0
+2007,12,Woodside,4.0,1.0
+2007,12,South San Franciscio,5.0,3.0
+2007,12,San Mateo,2.0,2.0
+2007,12,San Francisco,21.0,8.0
+2007,12,Redwood City,19.0,1.0
+2007,12,Palo Alto,2.0,2.0
+2007,12,Pacifica,3.0,3.0
+2007,12,Oakland,2.0,2.0
+2007,12,Moss Beach,2.0,1.0
+2007,12,Millbrae,3.0,2.0
+2007,12,Foster City,5.0,5.0
+2007,12,Daly City,156.0,1.0
+2007,12,Burlingame,1.0,1.0
+2007,12,Brisbane,290.0,7.0
+2007,12,Alameda,2.0,1.0
+2007,11,Woodside,1.0,1.0
+2007,11,San Mateo,1.0,1.0
+2007,11,San Francisco,24.0,10.0
+2007,11,San Bruno,6.0,4.0
+2007,11,Redwood City,51.0,2.0
+2007,11,Pacifica,7.0,2.0
+2007,11,Millbrae,3.0,2.0
+2007,11,Foster City,11.0,5.0
+2007,11,Daly City,144.0,3.0
+2007,11,Burlingame,3.0,2.0
+2007,11,Brisbane,473.0,8.0
+2007,10,Woodside,5.0,2.0
+2007,10,South San Franciscio,1.0,1.0
+2007,10,San Francisco,43.0,18.0
+2007,10,San Bruno,9.0,6.0
+2007,10,Redwood City,58.0,1.0
+2007,10,Portola Valley,11.0,3.0
+2007,10,Pacifica,51.0,7.0
+2007,10,Oakland,1.0,1.0
+2007,10,Menlo Park,1.0,1.0
+2007,10,Hillsborough,4.0,1.0
+2007,10,Foster City,37.0,4.0
+2007,10,Daly City,309.0,5.0
+2007,10,Burlingame,4.0,3.0
+2007,10,Brisbane,642.0,6.0
+2007,10,Boulder Creek,5.0,1.0
+2007,10,Alameda,4.0,1.0
+2007,9,Woodside,2.0,1.0
+2007,9,South San Franciscio,5.0,3.0
+2007,9,San Mateo,1.0,1.0
+2007,9,San Francisco,21.0,6.0
+2007,9,San Carlos,4.0,1.0
+2007,9,San Bruno,3.0,2.0
+2007,9,Redwood City,46.0,3.0
+2007,9,Palo Alto,1.0,1.0
+2007,9,Pacifica,49.0,11.0
+2007,9,Millbrae,3.0,1.0
+2007,9,Menlo Park,3.0,2.0
+2007,9,Hillsborough,22.0,2.0
+2007,9,Foster City,52.0,5.0
+2007,9,Daly City,110.0,2.0
+2007,9,Burlingame,1.0,1.0
+2007,9,Brisbane,577.0,8.0
+2007,9,Alameda,1.0,1.0
+2007,8,Woodside,6.0,2.0
+2007,8,South San Franciscio,1.0,1.0
+2007,8,San Mateo,3.0,1.0
+2007,8,San Francisco,66.0,3.0
+2007,8,San Bruno,2.0,2.0
+2007,8,Redwood City,39.0,1.0
+2007,8,Portola Valley,1.0,1.0
+2007,8,Palo Alto,1.0,1.0
+2007,8,Pacifica,75.0,5.0
+2007,8,Oakland,1.0,1.0
+2007,8,Millbrae,5.0,1.0
+2007,8,Menlo Park,1.0,1.0
+2007,8,Hillsborough,1.0,1.0
+2007,8,Foster City,24.0,3.0
+2007,8,Daly City,162.0,5.0
+2007,8,Brisbane,398.0,6.0
+2007,8,Alameda,2.0,1.0
+2007,7,Woodside,1.0,1.0
+2007,7,South San Franciscio,4.0,4.0
+2007,7,San Mateo,1.0,1.0
+2007,7,San Francisco,80.0,2.0
+2007,7,San Bruno,6.0,2.0
+2007,7,Redwood City,46.0,2.0
+2007,7,Portola Valley,2.0,2.0
+2007,7,Palo Alto,4.0,3.0
+2007,7,Pacifica,30.0,5.0
+2007,7,Menlo Park,1.0,1.0
+2007,7,Los Altos,1.0,1.0
+2007,7,Hillsborough,1.0,1.0
+2007,7,Foster City,39.0,4.0
+2007,7,Daly City,204.0,3.0
+2007,7,Brisbane,313.0,7.0
+2007,7,Alameda,1.0,1.0
+2007,6,Woodside,3.0,1.0
+2007,6,South San Franciscio,5.0,2.0
+2007,6,Santa Clara,1.0,1.0
+2007,6,San Mateo,3.0,1.0
+2007,6,San Francisco,74.0,6.0
+2007,6,San Bruno,16.0,4.0
+2007,6,Redwood City,12.0,1.0
+2007,6,Palo Alto,2.0,2.0
+2007,6,Pacifica,25.0,3.0
+2007,6,Oakland,1.0,1.0
+2007,6,Foster City,14.0,4.0
+2007,6,Daly City,14.0,2.0
+2007,6,Burlingame,3.0,1.0
+2007,6,Brisbane,258.0,6.0
+2007,6,Alameda,3.0,1.0
+2007,5,Woodside,9.0,1.0
+2007,5,South San Franciscio,4.0,3.0
+2007,5,San Mateo,3.0,2.0
+2007,5,San Francisco,82.0,3.0
+2007,5,San Bruno,5.0,4.0
+2007,5,Redwood City,58.0,1.0
+2007,5,Portola Valley,8.0,2.0
+2007,5,Palo Alto,11.0,4.0
+2007,5,Pacifica,69.0,3.0
+2007,5,Mountain View,1.0,1.0
+2007,5,Moss Beach,2.0,1.0
+2007,5,Foster City,5.0,3.0
+2007,5,Daly City,5.0,3.0
+2007,5,Burlingame,2.0,1.0
+2007,5,Brisbane,290.0,5.0
+2007,5,Atherton,1.0,1.0
+2007,5,Alameda,2.0,1.0
+2007,4,Tiburon,3.0,1.0
+2007,4,South San Franciscio,2.0,1.0
+2007,4,San Mateo,5.0,5.0
+2007,4,San Francisco,59.0,9.0
+2007,4,San Bruno,4.0,3.0
+2007,4,Redwood City,22.0,2.0
+2007,4,Palo Alto,1.0,1.0
+2007,4,Pacifica,36.0,3.0
+2007,4,Millbrae,1.0,1.0
+2007,4,Menlo Park,2.0,1.0
+2007,4,Los Altos,1.0,1.0
+2007,4,Foster City,3.0,2.0
+2007,4,Daly City,1.0,1.0
+2007,4,Burlingame,3.0,1.0
+2007,4,Brisbane,323.0,5.0
+2007,4,Alameda,1.0,1.0
+2007,3,South San Franciscio,1.0,1.0
+2007,3,San Mateo,4.0,2.0
+2007,3,San Francisco,4.0,4.0
+2007,3,San Bruno,13.0,4.0
+2007,3,Redwood City,14.0,2.0
+2007,3,Portola Valley,2.0,2.0
+2007,3,Palo Alto,5.0,3.0
+2007,3,Pacifica,39.0,7.0
+2007,3,Millbrae,1.0,1.0
+2007,3,Hillsborough,1.0,1.0
+2007,3,Foster City,2.0,2.0
+2007,3,Daly City,8.0,2.0
+2007,3,Burlingame,2.0,2.0
+2007,3,Brisbane,430.0,7.0
+2007,3,Bolinas,1.0,1.0
+2007,3,Belmont,42.0,1.0
+2007,3,Alameda,3.0,1.0
+2007,2,Woodside,3.0,1.0
+2007,2,San Mateo,1.0,1.0
+2007,2,San Francisco,9.0,5.0
+2007,2,San Bruno,5.0,3.0
+2007,2,Palo Alto,6.0,3.0
+2007,2,Pacifica,21.0,1.0
+2007,2,Millbrae,1.0,1.0
+2007,2,Daly City,5.0,2.0
+2007,2,Burlingame,5.0,3.0
+2007,2,Brisbane,255.0,5.0
+2007,2,Belmont,73.0,1.0
+2007,2,Alameda,2.0,1.0
+2007,1,South San Franciscio,3.0,3.0
+2007,1,San Francisco,3.0,3.0
+2007,1,San Bruno,9.0,2.0
+2007,1,Portola Valley,1.0,1.0
+2007,1,Palo Alto,14.0,2.0
+2007,1,Pacifica,34.0,3.0
+2007,1,Millbrae,1.0,1.0
+2007,1,Foster City,1.0,1.0
+2007,1,Daly City,50.0,4.0
+2007,1,Brisbane,456.0,5.0
+2007,1,Alameda,3.0,1.0
+2006,12,Palo Alto,3.0,1.0
+2006,12,Pacifica,10.0,1.0
+2006,12,Menlo Park,1.0,1.0
+2006,12,Lagunitas,1.0,1.0
+2006,12,Hillsborough,1.0,1.0
+2006,12,Foster City,1.0,1.0
+2006,12,Daly City,4.0,2.0
+2006,12,Burlingame,3.0,2.0
+2006,12,Brisbane,304.0,6.0
+2006,12,Belmont,2.0,1.0
+2006,12,Alameda,4.0,1.0
+2006,11,Woodside,2.0,1.0
+2006,11,South San Franciscio,1.0,1.0
+2006,11,San Mateo,1.0,1.0
+2006,11,San Francisco,7.0,6.0
+2006,11,San Carlos,1.0,1.0
+2006,11,Redwood City,19.0,2.0
+2006,5,San Bruno,7.0,4.0
+2006,12,South San Franciscio,2.0,2.0
+2006,12,San Mateo,2.0,1.0
+2006,1,Atherton,174.0,1.0
+2006,1,Belmont,1.0,1.0
+2006,1,Brisbane,374.0,8.0
+2006,1,Daly City,6.0,4.0
+2006,1,Foster City,2.0,2.0
+2006,1,Los Altos,1.0,1.0
+2006,1,Millbrae,41.0,1.0
+2006,1,Moraga,8.0,1.0
+2006,1,Pacifica,4.0,1.0
+2006,1,Palo Alto,2.0,1.0
+2006,1,Portola Valley,5.0,1.0
+2006,1,San Bruno,4.0,2.0
+2006,1,San Carlos,3.0,2.0
+2006,1,San Francisco,32.0,4.0
+2006,1,South San Franciscio,3.0,2.0
+2006,1,Sunnyvale,3.0,1.0
+2006,1,Woodside,15.0,2.0
+2006,2,Alameda,6.0,3.0
+2006,2,Atherton,174.0,1.0
+2006,2,Belmont,2.0,1.0
+2006,2,Brisbane,384.0,5.0
+2006,2,Burlingame,5.0,3.0
+2006,2,Daly City,11.0,4.0
+2006,2,Foster City,12.0,3.0
+2006,2,Menlo Park,5.0,1.0
+2006,2,Millbrae,24.0,5.0
+2006,2,Montara,10.0,1.0
+2006,2,Moraga,3.0,1.0
+2006,2,Pacifica,5.0,1.0
+2006,2,Palo Alto,3.0,2.0
+2006,2,Portola Valley,1.0,1.0
+2006,2,Redwood City,12.0,2.0
+2006,2,San Bruno,5.0,2.0
+2006,2,San Francisco,13.0,4.0
+2006,2,San Mateo,5.0,1.0
+2006,2,South San Franciscio,3.0,3.0
+2006,3,Alameda,6.0,2.0
+2006,3,Atherton,371.0,3.0
+2006,3,Belmont,1.0,1.0
+2006,3,Belvedere,1.0,1.0
+2006,3,Brisbane,340.0,7.0
+2006,3,Burlingame,1.0,1.0
+2006,3,Daly City,31.0,2.0
+2006,3,Foster City,45.0,2.0
+2006,3,Millbrae,26.0,2.0
+2006,3,Moraga,8.0,1.0
+2006,3,Oakland,2.0,1.0
+2006,3,Pacifica,6.0,4.0
+2006,3,Portola Valley,5.0,1.0
+2006,3,Redwood City,18.0,2.0
+2006,3,San Bruno,1.0,1.0
+2006,3,San Carlos,3.0,1.0
+2006,3,San Francisco,62.0,10.0
+2006,3,San Mateo,3.0,2.0
+2006,3,South San Franciscio,16.0,6.0
+2006,3,Tiburon,1.0,1.0
+2006,3,Woodside,1.0,1.0
+2006,4,Alameda,5.0,1.0
+2006,4,Atherton,347.0,3.0
+2006,4,Brisbane,515.0,12.0
+2006,4,Burlingame,1.0,1.0
+2006,4,Corte Madera,8.0,1.0
+2006,4,Daly City,114.0,4.0
+2006,4,Foster City,25.0,5.0
+2006,4,Lagunitas,583.0,2.0
+2006,4,Menlo Park,14.0,2.0
+2006,4,Millbrae,1.0,1.0
+2006,4,Moraga,20.0,1.0
+2006,4,Novato,1.0,1.0
+2006,4,Pacifica,2.0,1.0
+2006,4,Palo Alto,5.0,3.0
+2006,4,Redwood City,26.0,1.0
+2006,4,San Bruno,4.0,3.0
+2006,4,San Francisco,16.0,7.0
+2006,4,San Mateo,8.0,3.0
+2006,4,South San Franciscio,17.0,7.0
+2006,4,Tiburon,3.0,1.0
+2006,4,Woodside,3.0,1.0
+2006,5,Alameda,3.0,1.0
+2006,5,Atherton,156.0,2.0
+2006,5,Brisbane,422.0,11.0
+2006,5,Burlingame,7.0,2.0
+2006,5,Daly City,107.0,3.0
+2006,5,Discovery Bay,2.0,1.0
+2006,5,Foster City,12.0,6.0
+2006,5,Hayward,1.0,1.0
+2006,5,Hillsborough,2.0,1.0
+2006,5,Lafayette,1.0,1.0
+2006,5,Millbrae,12.0,2.0
+2006,5,Moraga,23.0,1.0
+2006,5,Newark,2.0,1.0
+2006,5,Palo Alto,3.0,2.0
+2006,5,Portola Valley,4.0,1.0
+2006,5,Redwood City,21.0,2.0
+2006,5,San Anselmo,4.0,2.0
+2006,11,Portola Valley,1.0,1.0
+2006,11,Palo Alto,11.0,4.0
+2006,11,Pacifica,11.0,8.0
+2006,11,Menlo Park,1.0,1.0
+2006,11,Foster City,2.0,2.0
+2006,11,Daly City,8.0,2.0
+2006,11,Burlingame,1.0,1.0
+2006,11,Brisbane,652.0,10.0
+2006,11,Belmont,1.0,1.0
+2006,11,Alameda,3.0,1.0
+2006,10,South San Franciscio,16.0,2.0
+2006,10,San Mateo,4.0,2.0
+2006,10,San Francisco,34.0,22.0
+2006,10,San Bruno,13.0,4.0
+2006,10,Redwood City,25.0,2.0
+2006,10,Portola Valley,1.0,1.0
+2006,10,Palo Alto,10.0,4.0
+2006,10,Pacifica,21.0,2.0
+2006,10,Millbrae,1.0,1.0
+2006,10,Hillsborough,4.0,1.0
+2006,10,Foster City,5.0,3.0
+2006,10,Daly City,15.0,2.0
+2006,10,Burlingame,3.0,3.0
+2006,10,Brisbane,525.0,7.0
+2006,10,Berkeley,1.0,1.0
+2006,10,Belmont,32.0,1.0
+2006,10,Alameda,3.0,1.0
+2006,12,San Francisco,3.0,3.0
+2006,9,Woodside,6.0,3.0
+2006,9,San Mateo,4.0,3.0
+2006,9,San Francisco,5.0,3.0
+2006,9,San Bruno,15.0,2.0
+2006,9,Redwood City,5.0,2.0
+2006,9,Portola Valley,5.0,1.0
+2006,9,Palo Alto,2.0,2.0
+2006,9,Pacifica,4.0,3.0
+2006,9,Foster City,24.0,1.0
+2006,9,Burlingame,8.0,4.0
+2006,9,Brisbane,464.0,7.0
+2006,9,Belmont,79.0,1.0
+2006,9,Alameda,3.0,1.0
+2006,8,Woodside,4.0,1.0
+2006,8,South San Franciscio,12.0,7.0
+2006,8,Santa Rosa,1.0,1.0
+2006,8,San Mateo,6.0,4.0
+2006,8,San Francisco,1.0,1.0
+2006,8,San Bruno,6.0,2.0
+2006,8,Redwood City,19.0,2.0
+2006,8,Piedmont,1.0,1.0
+2006,12,San Bruno,19.0,2.0
+2006,8,Pacifica,1.0,1.0
+2006,8,Millbrae,1.0,1.0
+2006,8,Menlo Park,1.0,1.0
+2006,8,Foster City,24.0,1.0
+2006,8,Daly City,5.0,2.0
+2006,8,Burlingame,7.0,2.0
+2006,8,Brisbane,330.0,8.0
+2006,8,Belmont,20.0,1.0
+2006,8,Atherton,88.0,2.0
+2006,8,Alameda,3.0,1.0
+2006,7,South San Franciscio,4.0,2.0
+2006,7,San Mateo,9.0,6.0
+2006,7,San Francisco,3.0,2.0
+2006,7,San Bruno,16.0,3.0
+2006,7,Redwood City,10.0,1.0
+2006,7,Pacifica,4.0,3.0
+2006,7,Millbrae,5.0,4.0
+2006,7,Hillsborough,1.0,1.0
+2006,7,Foster City,26.0,2.0
+2006,7,Daly City,1.0,1.0
+2006,7,Brisbane,295.0,6.0
+2006,7,Belmont,25.0,2.0
+2006,7,Atherton,270.0,1.0
+2006,7,Alameda,2.0,1.0
+2006,6,Woodside,5.0,1.0
+2006,6,South San Franciscio,436.0,10.0
+2006,6,San Mateo,65.0,12.0
+2006,6,San Francisco,4.0,2.0
+2006,6,San Bruno,6.0,4.0
+2006,6,Redwood City,17.0,3.0
+2006,6,Portola Valley,9.0,1.0
+2006,6,Palo Alto,13.0,4.0
+2006,6,Moraga,6.0,1.0
+2006,6,Millbrae,59.0,2.0
+2006,6,Menlo Park,2.0,2.0
+2006,6,Los Altos,1.0,1.0
+2006,6,Hillsborough,3.0,2.0
+2006,6,Foster City,117.0,5.0
+2006,6,Daly City,76.0,5.0
+2006,6,Concord,1.0,1.0
+2006,6,Burlingame,10.0,5.0
+2006,6,Brisbane,257.0,8.0
+2006,6,Atherton,179.0,3.0
+2006,6,Alameda,4.0,1.0
+2006,5,South San Franciscio,447.0,9.0
+2006,5,Soquel,1.0,1.0
+2006,5,San Mateo,12.0,4.0
+2006,12,Redwood City,1.0,1.0
+2006,5,San Francisco,12.0,8.0
+2005,11,San Mateo,2.0,2.0
+2005,1,Belmont,75.0,1.0
+2005,1,Berkeley,8.0,1.0
+2005,1,Brisbane,239.0,7.0
+2005,1,Daly City,16.0,6.0
+2005,1,El Granada,1.0,1.0
+2005,1,Foster City,6.0,1.0
+2005,1,Millbrae,2.0,1.0
+2005,1,Oakland,2.0,1.0
+2005,1,Pacifica,2.0,2.0
+2005,1,Redwood City,19.0,1.0
+2005,1,San Bruno,6.0,1.0
+2005,1,San Carlos,1.0,1.0
+2005,1,San Francisco,3.0,2.0
+2005,1,San Mateo,1.0,1.0
+2005,1,South San Franciscio,7.0,3.0
+2005,2,Alameda,3.0,1.0
+2005,2,Atherton,292.0,1.0
+2005,2,Belmont,118.0,2.0
+2005,2,Brisbane,317.0,16.0
+2005,2,Burlingame,13.0,2.0
+2005,2,Corte Madera,1.0,1.0
+2005,2,Daly City,46.0,2.0
+2005,2,Foster City,4.0,3.0
+2005,2,Millbrae,1.0,1.0
+2005,2,Oakland,3.0,1.0
+2005,2,Pacifica,2.0,2.0
+2005,2,Portola Valley,34.0,1.0
+2005,2,Redwood City,3.0,2.0
+2005,2,Richmond,2.0,1.0
+2005,2,San Bruno,12.0,1.0
+2005,2,San Carlos,3.0,1.0
+2005,2,San Francisco,20.0,7.0
+2005,2,San Mateo,1.0,1.0
+2005,2,South San Franciscio,3.0,1.0
+2005,2,Tiburon,2.0,1.0
+2005,2,Woodside,12.0,1.0
+2005,3,Alameda,3.0,1.0
+2005,3,Atherton,279.0,2.0
+2005,3,Berkeley,2.0,1.0
+2005,3,Brisbane,150.0,13.0
+2005,3,Burlingame,6.0,3.0
+2005,3,Daly City,42.0,3.0
+2005,3,Foster City,3.0,3.0
+2005,3,Hillsborough,1.0,1.0
+2005,3,Menlo Park,1.0,1.0
+2005,3,Millbrae,5.0,3.0
+2005,3,Mountain View,1.0,1.0
+2005,3,Pacifica,2.0,2.0
+2005,3,Palo Alto,1.0,1.0
+2005,3,Portola Valley,57.0,1.0
+2005,3,Redwood City,19.0,2.0
+2005,3,San Bruno,24.0,2.0
+2005,3,San Francisco,15.0,8.0
+2005,3,San Mateo,2.0,1.0
+2005,3,South San Franciscio,6.0,5.0
+2005,3,Woodside,2.0,1.0
+2005,4,Alameda,1.0,1.0
+2005,4,Atherton,220.0,1.0
+2005,4,Brisbane,183.0,9.0
+2005,4,Daly City,101.0,2.0
+2005,4,Foster City,2.0,1.0
+2005,4,Lagunitas,4.0,1.0
+2005,4,Menlo Park,7.0,1.0
+2005,4,Millbrae,1.0,1.0
+2005,4,Moss Beach,2.0,1.0
+2005,4,Pacifica,22.0,3.0
+2005,4,Palo Alto,3.0,1.0
+2005,4,Portola Valley,120.0,1.0
+2005,4,Redwood City,37.0,1.0
+2005,4,San Anselmo,4.0,1.0
+2005,4,San Bruno,9.0,4.0
+2005,4,San Carlos,3.0,1.0
+2005,4,San Francisco,12.0,6.0
+2005,4,San Mateo,2.0,2.0
+2005,4,South San Franciscio,5.0,4.0
+2005,4,Woodside,12.0,1.0
+2005,5,Atherton,266.0,1.0
+2005,5,Belmont,2.0,2.0
+2005,5,Berkeley,2.0,1.0
+2005,5,Brisbane,196.0,15.0
+2005,5,Burlingame,1.0,1.0
+2005,5,Daly City,110.0,9.0
+2005,5,Foster City,3.0,3.0
+2005,5,Lagunitas,1279.0,3.0
+2005,5,Los Altos,2.0,1.0
+2005,5,Menlo Park,7.0,1.0
+2005,5,Pacifica,30.0,9.0
+2005,5,Palo Alto,8.0,5.0
+2005,5,Portola Valley,3.0,2.0
+2005,5,Redwood City,40.0,1.0
+2005,5,San Bruno,8.0,3.0
+2005,5,San Carlos,1.0,1.0
+2005,5,San Francisco,3.0,3.0
+2005,5,San Geronimo,1.0,1.0
+2005,5,San Mateo,12.0,6.0
+2005,5,South San Franciscio,4.0,3.0
+2005,6,Alameda,5.0,1.0
+2005,6,Atherton,201.0,2.0
+2005,6,Belmont,1.0,1.0
+2005,6,Brisbane,180.0,11.0
+2005,6,Daly City,73.0,6.0
+2005,6,Foster City,3.0,3.0
+2005,6,Hillsborough,1.0,1.0
+2005,6,Lagunitas,2.0,1.0
+2005,6,Los Altos,3.0,2.0
+2005,6,Millbrae,2.0,1.0
+2005,6,Pacifica,24.0,8.0
+2005,6,Palo Alto,6.0,3.0
+2005,6,Redwood City,30.0,1.0
+2005,6,San Bruno,16.0,3.0
+2005,6,San Francisco,4.0,3.0
+2005,6,San Mateo,52.0,5.0
+2005,6,South San Franciscio,25.0,10.0
+2005,7,Alameda,5.0,1.0
+2005,7,Atherton,243.0,1.0
+2005,7,Berkeley,1.0,1.0
+2005,7,Brisbane,132.0,9.0
+2005,7,Daly City,25.0,8.0
+2005,7,Foster City,4.0,3.0
+2005,7,Hayward,1.0,1.0
+2005,7,Hillsborough,3.0,2.0
+2005,7,Los Altos,1.0,1.0
+2005,7,Los Gatos,2.0,1.0
+2005,7,Menlo Park,1.0,1.0
+2005,7,Millbrae,1.0,1.0
+2005,7,Palo Alto,4.0,4.0
+2005,7,Portola Valley,1.0,1.0
+2005,7,Redwood City,28.0,2.0
+2005,7,San Bruno,31.0,6.0
+2005,7,San Francisco,1.0,1.0
+2005,7,San Mateo,15.0,6.0
+2005,7,South San Franciscio,17.0,7.0
+2005,8,Alameda,7.0,1.0
+2005,8,Atherton,100.0,1.0
+2005,8,Berkeley,4.0,1.0
+2005,8,Brisbane,251.0,7.0
+2005,8,Burlingame,16.0,7.0
+2005,8,Daly City,14.0,6.0
+2005,8,Foster City,2.0,2.0
+2005,8,Fremont,1.0,1.0
+2005,8,Hillsborough,6.0,2.0
+2005,8,Pacifica,2.0,1.0
+2005,8,Palo Alto,8.0,3.0
+2005,8,Redwood City,26.0,2.0
+2005,8,San Bruno,5.0,3.0
+2005,8,San Francisco,4.0,3.0
+2005,8,San Mateo,14.0,6.0
+2005,8,South San Franciscio,15.0,2.0
+2005,9,Alameda,11.0,1.0
+2005,9,Belmont,1.0,1.0
+2005,9,Berkeley,3.0,1.0
+2005,9,Brisbane,239.0,10.0
+2005,9,Burlingame,3.0,2.0
+2005,9,Daly City,32.0,4.0
+2005,9,Foster City,2.0,2.0
+2005,9,Hillsborough,1.0,1.0
+2005,9,Millbrae,1.0,1.0
+2005,9,Palo Alto,1.0,1.0
+2005,9,Portola Valley,1.0,1.0
+2005,9,Redwood City,64.0,1.0
+2005,9,San Bruno,8.0,4.0
+2005,9,San Francisco,2.0,1.0
+2005,9,San Mateo,3.0,2.0
+2005,9,South San Franciscio,35.0,3.0
+2005,10,Alameda,5.0,1.0
+2005,10,Brisbane,551.0,15.0
+2005,10,Daly City,17.0,2.0
+2005,10,Foster City,1.0,1.0
+2005,10,Millbrae,7.0,2.0
+2005,10,Pacifica,31.0,4.0
+2005,10,Palo Alto,6.0,1.0
+2005,10,Redwood City,26.0,1.0
+2005,10,San Bruno,8.0,4.0
+2005,10,San Francisco,27.0,18.0
+2005,10,San Mateo,4.0,3.0
+2005,10,South San Franciscio,7.0,5.0
+2005,11,Alameda,2.0,1.0
+2005,11,Atherton,64.0,1.0
+2005,11,Brisbane,399.0,10.0
+2005,11,Burlingame,1.0,1.0
+2005,11,Daly City,5.0,2.0
+2005,11,Foster City,2.0,1.0
+2005,11,Los Altos,1.0,1.0
+2005,11,Millbrae,11.0,3.0
+2005,11,Pacifica,23.0,3.0
+2005,11,Portola Valley,1.0,1.0
+2005,11,Redwood City,33.0,1.0
+2005,11,San Carlos,1.0,1.0
+2005,11,San Francisco,8.0,2.0
+2005,11,San Rafael,1.0,1.0
+2005,11,South San Franciscio,7.0,3.0
+2005,11,Woodside,1.0,1.0
+2005,12,Alameda,8.0,2.0
+2005,12,Atherton,176.0,1.0
+2005,12,Belmont,1.0,1.0
+2005,12,Brisbane,290.0,7.0
+2005,12,Burlingame,2.0,1.0
+2005,12,Daly City,4.0,2.0
+2005,12,Foster City,2.0,2.0
+2005,12,Millbrae,13.0,3.0
+2005,12,Novato,3.0,1.0
+2005,12,Pacifica,8.0,1.0
+2005,12,Palo Alto,1.0,1.0
+2005,12,Redwood City,14.0,3.0
+2005,12,San Francisco,4.0,3.0
+2005,12,San Rafael,7.0,1.0
+2005,12,South San Franciscio,1.0,1.0
+2005,12,Sunnyvale,1.0,1.0
+2005,12,Tiburon,5.0,1.0
+2005,1,Atherton,242.0,1.0
+2005,1,Alameda,7.0,1.0
